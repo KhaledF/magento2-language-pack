@@ -69,72 +69,72 @@ Home,الرئيسية,module,Mageplaza_Blog
 "Category is not available.","الصنف غير متاح",module,Mageplaza_Blog
 "There was a Category move error.","هناك خطأ في نقل الصنف",module,Mageplaza_Blog
 "There was a Category move error. %1","%1 هناك خطأ في نقل الصنف",module,Mageplaza_Blog
-"You moved the Category","You moved the Category",module,Mageplaza_Blog
-"You saved the Category.","You saved the Category.",module,Mageplaza_Blog
-"The Post has been deleted.","The Post has been deleted.",module,Mageplaza_Blog
-"Post to delete was not found.","Post to delete was not found.",module,Mageplaza_Blog
-"This Post no longer exists.","This Post no longer exists.",module,Mageplaza_Blog
-"Please correct the data sent.","Please correct the data sent.",module,Mageplaza_Blog
-"Something went wrong while saving the Post.","Something went wrong while saving the Post.",module,Mageplaza_Blog
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Mageplaza_Blog
-"The Post has been saved.","The Post has been saved.",module,Mageplaza_Blog
-"The Tag has been deleted.","The Tag has been deleted.",module,Mageplaza_Blog
-"Tag to delete was not found.","Tag to delete was not found.",module,Mageplaza_Blog
-"This Tag no longer exists.","This Tag no longer exists.",module,Mageplaza_Blog
-"Something went wrong while saving the Tag.","Something went wrong while saving the Tag.",module,Mageplaza_Blog
-"The Tag has been saved.","The Tag has been saved.",module,Mageplaza_Blog
-"The Topic has been deleted.","The Topic has been deleted.",module,Mageplaza_Blog
-"Topic to delete was not found.","Topic to delete was not found.",module,Mageplaza_Blog
-"This Topic no longer exists.","This Topic no longer exists.",module,Mageplaza_Blog
-"Something went wrong while saving the Topic.","Something went wrong while saving the Topic.",module,Mageplaza_Blog
-"The Topic has been saved.","The Topic has been saved.",module,Mageplaza_Blog
-"Sorry, but we can't move the Category because we can't find the new parent Category you selected.","Sorry, but we can't move the Category because we can't find the new parent Category you selected.",module,Mageplaza_Blog
-"We can't perform this Category move operation because the parent Category matches the child Category.","We can't perform this Category move operation because the parent Category matches the child Category.",module,Mageplaza_Blog
-"INDEX,FOLLOW","INDEX,FOLLOW",module,Mageplaza_Blog
-"NOINDEX,NOFOLLOW","NOINDEX,NOFOLLOW",module,Mageplaza_Blog
-"NOINDEX,FOLLOW","NOINDEX,FOLLOW",module,Mageplaza_Blog
-"INDEX,NOFOLLOW","INDEX,NOFOLLOW",module,Mageplaza_Blog
-"List View","List View",module,Mageplaza_Blog
-"Grid View","Grid View",module,Mageplaza_Blog
-Light,Light,module,Mageplaza_Blog
-Dark,Dark,module,Mageplaza_Blog
-Social,Social,module,Mageplaza_Blog
-"Reverse time","Reverse time",module,Mageplaza_Blog
-Time,Time,module,Mageplaza_Blog
+"You moved the Category","لقد نقلت الصنف",module,Mageplaza_Blog
+"You saved the Category.","لقد حفظت الصنف",module,Mageplaza_Blog
+"The Post has been deleted.","تم مسح المرسلة",module,Mageplaza_Blog
+"Post to delete was not found.","لم يتم إيجاد المرسلة للمسح",module,Mageplaza_Blog
+"This Post no longer exists.","هذه المرسلة لم تعد موجودة",module,Mageplaza_Blog
+"Please correct the data sent.","رجاء تصحيح المعلومات المرسلة",module,Mageplaza_Blog
+"Something went wrong while saving the Post.","حدث خطأ ما أثناء حفظ المرسلة",module,Mageplaza_Blog
+"A total of %1 record(s) have been deleted.","مجموع 1% سجل تم مسحه",module,Mageplaza_Blog
+"The Post has been saved.","تم حفظ المرسلة",module,Mageplaza_Blog
+"The Tag has been deleted.","تم مسح الشعار Tag",module,Mageplaza_Blog
+"Tag to delete was not found.","للمسح Tag لم يتم إيجاد الشعار ",module,Mageplaza_Blog
+"This Tag no longer exists.","لم يعد موجودا Tag هذا الشعار",module,Mageplaza_Blog
+"Something went wrong while saving the Tag.","Tag حدث خطأ ما أثناء حفظ الشعار",module,Mageplaza_Blog
+"The Tag has been saved.","Tag تم حفظ الشعار",module,Mageplaza_Blog
+"The Topic has been deleted.","تم مسح الموضوع",module,Mageplaza_Blog
+"Topic to delete was not found.","لم يتم العثور على الموضوع للمسح",module,Mageplaza_Blog
+"This Topic no longer exists.","هذا الموضوع لم يعد موجودا",module,Mageplaza_Blog
+"Something went wrong while saving the Topic.","حدث خطأ ما أثناء حفظ الموضوع",module,Mageplaza_Blog
+"The Topic has been saved.","تم حفظ الموضوع",module,Mageplaza_Blog
+"Sorry, but we can't move the Category because we can't find the new parent Category you selected.","عذرا, لن نستطيع نقل الصنف لأننا لا يمكننا إيجاد الصنف الرئيسي المختار",module,Mageplaza_Blog
+"We can't perform this Category move operation because the parent Category matches the child Category.","لم نستطيع نقل هذا الصنف لأن الصنف الرئيسي مطابق للصنف الفرعي",module,Mageplaza_Blog
+"INDEX,FOLLOW","الفهرسة,متابعة",module,Mageplaza_Blog
+"NOINDEX,NOFOLLOW","منع الفهرسة,منع المتابعة",module,Mageplaza_Blog
+"NOINDEX,FOLLOW","منع الفهرسة,متابعة",module,Mageplaza_Blog
+"INDEX,NOFOLLOW","الفهرسة,منع المتابعة",module,Mageplaza_Blog
+"List View","عرض كقائمة",module,Mageplaza_Blog
+"Grid View","عرض كشبكة",module,Mageplaza_Blog
+Light,فاتح,module,Mageplaza_Blog
+Dark,داكن,module,Mageplaza_Blog
+Social,إجتماعي,module,Mageplaza_Blog
+"Reverse time","عكس الوقت",module,Mageplaza_Blog
+Time,الوقت,module,Mageplaza_Blog
 "Disqus Comment","Disqus Comment",module,Mageplaza_Blog
 "Facebook Comment","Facebook Comment",module,Mageplaza_Blog
-"Disable Completely","Disable Completely",module,Mageplaza_Blog
-Edit,Edit,module,Mageplaza_Blog
-Delete,Delete,module,Mageplaza_Blog
-"Delete ""${ $.$data.name }""","Delete ""${ $.$data.name }""",module,Mageplaza_Blog
-"Are you sure you wan't to delete the Post ""${ $.$data.name }"" ?","Are you sure you wan't to delete the Post ""${ $.$data.name }"" ?",module,Mageplaza_Blog
-"Are you sure you wan't to delete the Tag ""${ $.$data.name }"" ?","Are you sure you wan't to delete the Tag ""${ $.$data.name }"" ?",module,Mageplaza_Blog
-"Are you sure you wan't to delete the Topic ""${ $.$data.name }"" ?","Are you sure you wan't to delete the Topic ""${ $.$data.name }"" ?",module,Mageplaza_Blog
-"Are you sure you want to delete this Category?","Are you sure you want to delete this Category?",module,Mageplaza_Blog
+"Disable Completely","تعطيل بالكامل",module,Mageplaza_Blog
+Edit,تعديل,module,Mageplaza_Blog
+Delete,مسح,module,Mageplaza_Blog
+"Delete ""${ $.$data.name }""","""${ $.$data.name }"" مسح",module,Mageplaza_Blog
+"Are you sure you wan't to delete the Post ""${ $.$data.name }"" ?","؟ ""${ $.$data.name }"" هل انت متأكد انك تريد مسح المرسلة",module,Mageplaza_Blog
+"Are you sure you wan't to delete the Tag ""${ $.$data.name }"" ?","؟ ""${ $.$data.name }"" هل انت متأكد انك تريد مسح الشعار",module,Mageplaza_Blog
+"Are you sure you wan't to delete the Topic ""${ $.$data.name }"" ?","؟ ""${ $.$data.name }"" هل انت متأكد انك تريد مسح الموضوع",module,Mageplaza_Blog
+"Are you sure you want to delete this Category?","هل انت متأكد انك تريد مسح هذا الصنف؟",module,Mageplaza_Blog
 "ID: %1","ID: %1",module,Mageplaza_Blog
-"This operation can take a long time","This operation can take a long time",module,Mageplaza_Blog
-"Collapse All","Collapse All",module,Mageplaza_Blog
-"Expand All","Expand All",module,Mageplaza_Blog
-"Please confirm site switching. All data that hasn't been saved will be lost.","Please confirm site switching. All data that hasn't been saved will be lost.",module,Mageplaza_Blog
-"Posted on","Posted on",module,Mageplaza_Blog
-"Posted in","Posted in",module,Mageplaza_Blog
-"Read More","Read More",module,Mageplaza_Blog
-"There are no posts at this moment","There are no posts at this moment",module,Mageplaza_Blog
-"No Categories","No Categories",module,Mageplaza_Blog
-"Read more","Read more",module,Mageplaza_Blog
+"This operation can take a long time","هذه العملية احتمال ان تأخذ وقت طويل",module,Mageplaza_Blog
+"Collapse All","ضم الكل",module,Mageplaza_Blog
+"Expand All","توسيع الكل",module,Mageplaza_Blog
+"Please confirm site switching. All data that hasn't been saved will be lost.","برجاء أكد انتقال الموقع, جميع البيانات التي لم تحفظ ستضيع",module,Mageplaza_Blog
+"Posted on","ارسلت",module,Mageplaza_Blog
+"Posted in","ارسلت في",module,Mageplaza_Blog
+"Read More","قراءة المزيد",module,Mageplaza_Blog
+"There are no posts at this moment","لا يوجد مراسلات فى هذه اللحظة",module,Mageplaza_Blog
+"No Categories","لا يوجد تصنيفات",module,Mageplaza_Blog
+"Read more","قراءة المزيد",module,Mageplaza_Blog
 [...],[...],module,Mageplaza_Blog
-"By ","By ",module,Mageplaza_Blog
-Categories:,Categories:,module,Mageplaza_Blog
-Tags:,Tags:,module,Mageplaza_Blog
-"Share this post, Hit on social buttons!","Share this post, Hit on social buttons!",module,Mageplaza_Blog
-"About the Author: ","About the Author: ",module,Mageplaza_Blog
-"Related Posts","Related Posts",module,Mageplaza_Blog
-Comments,Comments,module,Mageplaza_Blog
-Popular,Popular,module,Mageplaza_Blog
-Recent,Recent,module,Mageplaza_Blog
-"<div style=""height: 50px;line-height: 50px;text-align: center;"">No Posts</div>","<div style=""height: 50px;line-height: 50px;text-align: center;"">No Posts</div>",module,Mageplaza_Blog
-"No Tags","No Tags",module,Mageplaza_Blog
-Partners,Partners,module,Mageplaza_Core
+"By ","عن ",module,Mageplaza_Blog
+Categories:,:أصناف,module,Mageplaza_Blog
+Tags:,:إشعارات,module,Mageplaza_Blog
+"Share this post, Hit on social buttons!","للمشاركة بهذه المرسلة, اضغط على أزرار التواصل الإجتماعي",module,Mageplaza_Blog
+"About the Author: ","عن المؤلف: ",module,Mageplaza_Blog
+"Related Posts","مراسلات لها علاقة",module,Mageplaza_Blog
+Comments,تعليقات,module,Mageplaza_Blog
+Popular,مشهورة,module,Mageplaza_Blog
+Recent,حديثة,module,Mageplaza_Blog
+"<div style=""height: 50px;line-height: 50px;text-align: center;"">No Posts</div>","<div style=""height: 50px;line-height: 50px;text-align: center;"">لا يوجد مراسلات</div>",module,Mageplaza_Blog
+"No Tags","لا يوجد إشعارات",module,Mageplaza_Blog
+Partners,شركاء,module,Mageplaza_Core
 "Mageplaza Marketplace","Mageplaza Marketplace",module,Mageplaza_Core
 "My Cart","My Cart",theme,frontend/Sn3ly/sn3ly_theme
 "Now Shopping by","Now Shopping by",theme,frontend/Sn3ly/sn3ly_theme
