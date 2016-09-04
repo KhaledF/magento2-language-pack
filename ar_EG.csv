@@ -1,38 +1,38 @@
-Categories, اصناف ,module,Mageplaza_Blog
+Categories, الأصناف ,module,Mageplaza_Blog
 "Create New Category","إنشاء صنف جديد",module,Mageplaza_Blog
-ROOT,رئيسي�ر,module,Mageplaza_Blog
-Root,رئيسي�,module,Mageplaza_Blog
+ROOT,جذر,module,Mageplaza_Blog
+Root,جذر,module,Mageplaza_Blog
 "Save Category","حفظ الصنف",module,Mageplaza_Blog
 "Delete Category","مسح الصنف",module,Mageplaza_Blog
 Reset,إعادة تعيين,module,Mageplaza_Blog
 "New Child Category","صنف فرعي جديد",module,Mageplaza_Blog
-"New Root Category","صنف رئيسي جديد",module,Mageplaza_Blog
+"New Root Category","صنف جذري جديد",module,Mageplaza_Blog
 "Category Information","معلومات الصنف",module,Mageplaza_Blog
 Name,الاسم,module,Mageplaza_Blog
 Description,الوصف,module,Mageplaza_Blog
 "URL Key","URL Key",module,Mageplaza_Blog
-Enabled,تفعيل,module,Mageplaza_Blog
+Enabled,تم التفعيل,module,Mageplaza_Blog
 "Meta Title","Meta Title",module,Mageplaza_Blog
 "Meta Description","Meta Description",module,Mageplaza_Blog
 "Meta Keywords","Meta Keywords",module,Mageplaza_Blog
 "Meta Robots","Meta Robots",module,Mageplaza_Blog
 Category,صنف,module,Mageplaza_Blog
 ID,ID,module,Mageplaza_Blog
-Position,الموضع,module,Mageplaza_Blog
-Posts,المسلات,module,Mageplaza_Blog
+Position,موضع,module,Mageplaza_Blog
+Posts,مرسلات,module,Mageplaza_Blog
 "Category Data","بيانات الصنف",module,Mageplaza_Blog
 "Category information","معلومات الصنف",module,Mageplaza_Blog
-"Parent Category","الصنف الأب",module,Mageplaza_Blog
-"You can reassign the Category at any time in <a href=""%1"" target=""_blank"">Manage Categories</a>.","يمكنك إعادة تعيين الصنف في اى وقت من <a href=""%1"" target=""_blank"">Manage Categories</a>.",module,Mageplaza_Blog
+"Parent Category","الصنف الرئيسي",module,Mageplaza_Blog
+"You can reassign the Category at any time in <a href=""%1"" target=""_blank"">Manage Categories</a>."," <a href=""%1"" target=""_blank"">إدارة الأصناف</a> يمكنك إعادة تعيين الصنف في اى وقت من خلال",module,Mageplaza_Blog
 "Add Child Category","إضافة صنف فرعي",module,Mageplaza_Blog
-"Add Root Category","إضافة صنف رئيسي",module,Mageplaza_Blog
-"start typing to search Category","إبدأ الكتابة للبحث بالصنف",module,Mageplaza_Blog
+"Add Root Category","إضافة صنف جذري",module,Mageplaza_Blog
+"start typing to search Category","إبدأ الكتابة لبحث الصنف",module,Mageplaza_Blog
 "New Category","صنف جديد",module,Mageplaza_Blog
-"Create New Post","إنشاء مراسلة جديدة",module,Mageplaza_Blog
-"Save Post","حفظ المراسلة",module,Mageplaza_Blog
+"Create New Post","إنشاء مرسلة جديدة",module,Mageplaza_Blog
+"Save Post","حفظ المرسلة",module,Mageplaza_Blog
 "Save and Continue Edit","حفظ وإكمال التعديل",module,Mageplaza_Blog
 "Delete Post","مسح المرسلة",module,Mageplaza_Blog
-"Edit Post '%1'","تعديل المرسلة '%1'",module,Mageplaza_Blog
+"Edit Post '%1'","'%1' تعديل المرسلة",module,Mageplaza_Blog
 "New Post","مرسلة جديدة",module,Mageplaza_Blog
 "Post Information","معلومات المرسلة",module,Mageplaza_Blog
 "Post name","اسم المرسلة",module,Mageplaza_Blog
@@ -40,35 +40,35 @@ Posts,المسلات,module,Mageplaza_Blog
 Content,المحتوى,module,Mageplaza_Blog
 "Post Content","محتوى المرسلة",module,Mageplaza_Blog
 Image,صورة,module,Mageplaza_Blog
-"Featured image","الصورة المتميزة",module,Mageplaza_Blog
+"Featured image","صورة مميزة",module,Mageplaza_Blog
 "In RSS","In RSS",module,Mageplaza_Blog
 "Allow Comment","إتاحة التعليق",module,Mageplaza_Blog
-Post,Post�,module,Mageplaza_Blog
-Tags,Tags,module,Mageplaza_Blog
-Topics,Topics,module,Mageplaza_Blog
-"Create New Tag","Create New Tag",module,Mageplaza_Blog
-"Save Tag","Save Tag",module,Mageplaza_Blog
-"Delete Tag","Delete Tag",module,Mageplaza_Blog
-"Edit Tag '%1'","Edit Tag '%1'",module,Mageplaza_Blog
-"New Tag","New Tag",module,Mageplaza_Blog
-"Tag Information","Tag Information",module,Mageplaza_Blog
-Tag,Tag,module,Mageplaza_Blog
-"Create New Topic","Create New Topic",module,Mageplaza_Blog
-"Save Topic","Save Topic",module,Mageplaza_Blog
-"Delete Topic","Delete Topic",module,Mageplaza_Blog
-"Edit Topic '%1'","Edit Topic '%1'",module,Mageplaza_Blog
-"New Topic","New Topic",module,Mageplaza_Blog
-"Topic Information","Topic Information",module,Mageplaza_Blog
-Topic,Topic,module,Mageplaza_Blog
+Post,مرسلة,module,Mageplaza_Blog
+Tags,Tagشعار,module,Mageplaza_Blog
+Topics,مواضيع,module,Mageplaza_Blog
+"Create New Tag","Tag إنشاء شعار جديد",module,Mageplaza_Blog
+"Save Tag","Tag حفظ الشعار",module,Mageplaza_Blog
+"Delete Tag","Tag مسح الشعار",module,Mageplaza_Blog
+"Edit Tag '%1'","Tag '%1' تعديل الشعار",module,Mageplaza_Blog
+"New Tag","Tag شعار جديد",module,Mageplaza_Blog
+"Tag Information","Tag معلومات الشعار",module,Mageplaza_Blog
+Tag,Tag شعار,module,Mageplaza_Blog
+"Create New Topic","إنشاء موضوع جديد",module,Mageplaza_Blog
+"Save Topic","حفظ الموضوع",module,Mageplaza_Blog
+"Delete Topic","مسح الموضوع",module,Mageplaza_Blog
+"Edit Topic '%1'","'%1' تعديل الموضوع",module,Mageplaza_Blog
+"New Topic","موضوع جديد",module,Mageplaza_Blog
+"Topic Information","معلومات الموضوع",module,Mageplaza_Blog
+Topic,موضوع,module,Mageplaza_Blog
 Home,الرئيسية,module,Mageplaza_Blog
 "Go to Home Page","الذهاب الى الصفحة الرئيسية",module,Mageplaza_Blog
 "List Posts from %1","%1 إدراج المرسلات من",module,Mageplaza_Blog
 "The Category has been deleted.","تم مسح الصنف",module,Mageplaza_Blog
-"Category to delete was not found.","Category to delete was not found.",module,Mageplaza_Blog
-"Manage Categories","Manage Categories",module,Mageplaza_Blog
-"Category is not available.","Category is not available.",module,Mageplaza_Blog
-"There was a Category move error.","There was a Category move error.",module,Mageplaza_Blog
-"There was a Category move error. %1","There was a Category move error. %1",module,Mageplaza_Blog
+"Category to delete was not found.","لم يتم إيجاد الصنف لمسحه",module,Mageplaza_Blog
+"Manage Categories","إدارة الأصناف",module,Mageplaza_Blog
+"Category is not available.","الصنف غير متاح",module,Mageplaza_Blog
+"There was a Category move error.","هناك خطأ في نقل الصنف",module,Mageplaza_Blog
+"There was a Category move error. %1","%1 هناك خطأ في نقل الصنف",module,Mageplaza_Blog
 "You moved the Category","You moved the Category",module,Mageplaza_Blog
 "You saved the Category.","You saved the Category.",module,Mageplaza_Blog
 "The Post has been deleted.","The Post has been deleted.",module,Mageplaza_Blog
@@ -1546,7 +1546,7 @@ Manually,Manually,module,Magento_CheckoutAgreements
 "Shopping Cart","Shopping Cart",module,Magento_Checkout
 "Invalid method: %1","Invalid method: %1",module,Magento_Checkout
 City,City,module,Magento_Checkout
-Country, البلد ,module,Magento_Checkout
+Country, Ø§Ù„Ø¨Ù„Ø¯ ,module,Magento_Checkout
 State/Province,State/Province,module,Magento_Checkout
 "Zip/Postal Code","Zip/Postal Code",module,Magento_Checkout
 "My Cart (1 item)","My Cart (1 item)",module,Magento_Checkout
@@ -1938,11 +1938,11 @@ Cancel,Cancel,module,Magento_ConfigurableProduct
 "We can't process your request right now. Sorry, that's all we know.","We can't process your request right now. Sorry, that's all we know.",module,Magento_Contact
 "* Required Fields","* Required Fields",module,Magento_Contact
 "Write Us","Write Us",module,Magento_Contact
-"Jot us a note and we’ll get back to you as quickly as possible.","Jot us a note and we’ll get back to you as quickly as possible.",module,Magento_Contact
+"Jot us a note and weâ€™ll get back to you as quickly as possible.","Jot us a note and weâ€™ll get back to you as quickly as possible.",module,Magento_Contact
 Name,Name,module,Magento_Contact
 Email,Email,module,Magento_Contact
 "Phone Number","Phone Number",module,Magento_Contact
-"What’s on your mind?","What’s on your mind?",module,Magento_Contact
+"Whatâ€™s on your mind?","Whatâ€™s on your mind?",module,Magento_Contact
 Submit,Submit,module,Magento_Contact
 "Invalid domain name: %1","Invalid domain name: %1",module,Magento_Cookie
 "Invalid cookie lifetime: %1","Invalid cookie lifetime: %1",module,Magento_Cookie
@@ -3619,7 +3619,7 @@ Never,Never,module,Magento_Paypal
 "Settlement of a chargeback.","Settlement of a chargeback.",module,Magento_Paypal
 "A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.","A reversal has occurred on this transaction because of a customer dispute suspecting unauthorized spoof.",module,Magento_Paypal
 "Buyer claims that he did not receive goods or service.","Buyer claims that he did not receive goods or service.",module,Magento_Paypal
-"Buyer claims that the goods or service received differ from merchant’s description of the goods or service.","Buyer claims that the goods or service received differ from merchant’s description of the goods or service.",module,Magento_Paypal
+"Buyer claims that the goods or service received differ from merchantâ€™s description of the goods or service.","Buyer claims that the goods or service received differ from merchantâ€™s description of the goods or service.",module,Magento_Paypal
 "Buyer claims that he/she did not authorize transaction.","Buyer claims that he/she did not authorize transaction.",module,Magento_Paypal
 "A case that has been resolved and close requires a reimbursement.","A case that has been resolved and close requires a reimbursement.",module,Magento_Paypal
 "Buyer claims that a possible duplicate payment was made to the merchant.","Buyer claims that a possible duplicate payment was made to the merchant.",module,Magento_Paypal
@@ -8035,15 +8035,15 @@ Manage,Manage,module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                        Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                         <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                        Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                        from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                        Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                         The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                         or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ",module,Magento_Paypal
@@ -8064,9 +8064,9 @@ Title,Title,module,Magento_Paypal
 "Payment Action","Payment Action",module,Magento_Paypal
 "Display on Product Details Page","Display on Product Details Page",module,Magento_Paypal
 "Authorization Honor Period (days)","Authorization Honor Period (days)",module,Magento_Paypal
-"Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Authorization Honor Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
+"Specifies what the Authorization Honor Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal.","Specifies what the Authorization Honor Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
 "Order Valid Period (days)","Order Valid Period (days)",module,Magento_Paypal
-"Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.","Specifies what the Order Valid Period is on the merchant’s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
+"Specifies what the Order Valid Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal.","Specifies what the Order Valid Period is on the merchantâ€™s PayPal account. It must mirror the setting in PayPal.",module,Magento_Paypal
 "Number of Child Authorizations","Number of Child Authorizations",module,Magento_Paypal
 "The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.","The default number of child authorizations in your PayPal account is 1. To do multiple authorizations please contact PayPal to request an increase.",module,Magento_Paypal
 "Advanced Settings","Advanced Settings",module,Magento_Paypal
@@ -8157,15 +8157,15 @@ User,User,module,Magento_Paypal
 "
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                                            Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                             or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
                     <a href=""https://financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                                            Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                             or more. <a href=""https://financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ",module,Magento_Paypal
@@ -8189,15 +8189,15 @@ User,User,module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                            Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                             or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                             <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                            Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                            from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                            Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                             The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                             or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ",module,Magento_Paypal
@@ -8228,15 +8228,15 @@ User,User,module,Magento_Paypal
 "
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                                Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ","
                     <a href=""https:/financing.paypal.com/ppfinportal/content/whyUseFinancing"" target=""_blank"">Why Advertise Financing?</a><br/>
                                 <strong>Give your sales a boost when you advertise financing.</strong><br/>PayPal helps turn browsers into buyers with financing
-                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front – at no additional cost to you.
-                                Use PayPal’s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
+                                from PayPal Credit&#174;. Your customers have more time to pay, while you get paid up front â€“ at no additional cost to you.
+                                Use PayPalâ€™s free banner ads that let you advertise PayPal Credit&#174; financing as a payment option when your customers check out with PayPal.
                                 The PayPal Advertising Program has been shown to generate additional purchases as well as increase consumer's average purchase sizes by 15%
                                 or more. <a href=""https:/financing.paypal.com/ppfinportal/content/forrester"" target=""_blank"">See Details</a>.
                 ",module,Magento_Paypal
@@ -8519,7 +8519,7 @@ Edit,Edit,module,Magento_Search
 Scope,Scope,module,Magento_Search
 "You can adjust the scope of this synonym group by selecting an option from the list.","You can adjust the scope of this synonym group by selecting an option from the list.",module,Magento_Search
 Synonyms,Synonyms,module,Magento_Search
-"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an “OR” search query to search your entire store. For example, if you enter “shoes,footwear”, and user were to search for ""shoes"", the search results will include any product or content with term “shoes"" or ""footwear.”",module,Magento_Search
+"Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an â€œORâ€ search query to search your entire store. For example, if you enter â€œshoes,footwearâ€, and user were to search for ""shoes"", the search results will include any product or content with term â€œshoes"" or ""footwear.â€","Comma-separated list of synonyms. The terms entered (separated by commas) will be used as an â€œORâ€ search query to search your entire store. For example, if you enter â€œshoes,footwearâ€, and user were to search for ""shoes"", the search results will include any product or content with term â€œshoes"" or ""footwear.â€",module,Magento_Search
 "Merge existing synonyms","Merge existing synonyms",module,Magento_Search
 "Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.","Automatically merges synonyms in groups that share the same scope. If you check this box and you add one or more of the same terms to different synonym groups in the same scope, automatically merges all the terms to one group. If this isn't what you want, uncheck the box and an error displays if you try to add the same terms.",module,Magento_Search
 "Store View","Store View",module,Magento_Search
@@ -8660,7 +8660,7 @@ Configuration,Configuration,module,Magento_Theme
 "This action will delete your custom instructions and reset robots.txt file to system's default settings.","This action will delete your custom instructions and reset robots.txt file to system's default settings.",module,Magento_Theme
 "Default Description","Default Description",module,Magento_Theme
 "Default welcome msg!","Default welcome msg!",module,Magento_Theme
-"Copyright © 2016 Magento. All rights reserved.","Copyright © 2016 Magento. All rights reserved.",module,Magento_Theme
+"Copyright Â© 2016 Magento. All rights reserved.","Copyright Â© 2016 Magento. All rights reserved.",module,Magento_Theme
 "Design Config Grid","Design Config Grid",module,Magento_Theme
 "Rebuild design config grid index","Rebuild design config grid index",module,Magento_Theme
 "Admin empty","Admin empty",module,Magento_Theme
