@@ -136,50 +136,50 @@ Recent,حديثة,module,Mageplaza_Blog
 "No Tags","لا يوجد إشعارات",module,Mageplaza_Blog
 Partners,شركاء,module,Mageplaza_Core
 "Mageplaza Marketplace","Mageplaza Marketplace",module,Mageplaza_Core
-"My Cart","My Cart",theme,frontend/Sn3ly/sn3ly_theme
-"Now Shopping by","Now Shopping by",theme,frontend/Sn3ly/sn3ly_theme
-Previous,Previous,theme,frontend/Sn3ly/sn3ly_theme
-Remove,Remove,theme,frontend/Sn3ly/sn3ly_theme
-"Remove This Item","Remove This Item",theme,frontend/Sn3ly/sn3ly_theme
-"Shop By","Shop By",theme,frontend/Sn3ly/sn3ly_theme
-"Clear All","Clear All",theme,frontend/Sn3ly/sn3ly_theme
-"Shopping Options","Shopping Options",theme,frontend/Sn3ly/sn3ly_theme
-"Help Us Keep Magento Healthy","Help Us Keep Magento Healthy",theme,frontend/Sn3ly/sn3ly_theme
-"Report All Bugs","Report All Bugs",theme,frontend/Sn3ly/sn3ly_theme
-"Toggle Nav","Toggle Nav",theme,frontend/Sn3ly/sn3ly_theme
-"JavaScript seems to be disabled in your browser.","JavaScript seems to be disabled in your browser.",theme,frontend/Sn3ly/sn3ly_theme
-"For the best experience on our site, be sure to turn on Javascript in your browser.","For the best experience on our site, be sure to turn on Javascript in your browser.",theme,frontend/Sn3ly/sn3ly_theme
-"Local Storage seems to be disabled in your browser.","Local Storage seems to be disabled in your browser.",theme,frontend/Sn3ly/sn3ly_theme
-"For the best experience on our site, be sure to turn on Local Storage in your browser.","For the best experience on our site, be sure to turn on Local Storage in your browser.",theme,frontend/Sn3ly/sn3ly_theme
-"This is demo store. No orders will be fulfilled.","This is demo store. No orders will be fulfilled.",theme,frontend/Sn3ly/sn3ly_theme
+"My Cart","سلتي",theme,frontend/Sn3ly/sn3ly_theme
+"Now Shopping by","تسوق الآن",theme,frontend/Sn3ly/sn3ly_theme
+Previous,السابق,theme,frontend/Sn3ly/sn3ly_theme
+Remove,مسح,theme,frontend/Sn3ly/sn3ly_theme
+"Remove This Item","مسح هذا البند",theme,frontend/Sn3ly/sn3ly_theme
+"Shop By","تسوق عبر",theme,frontend/Sn3ly/sn3ly_theme
+"Clear All","مسح الكل",theme,frontend/Sn3ly/sn3ly_theme
+"Shopping Options","خيارات التسوق",theme,frontend/Sn3ly/sn3ly_theme
+"Help Us Keep Magento Healthy","ساعدنا",theme,frontend/Sn3ly/sn3ly_theme
+"Report All Bugs","أبلغ عن كل الثغرات",theme,frontend/Sn3ly/sn3ly_theme
+"Toggle Nav","تبديل التنقل",theme,frontend/Sn3ly/sn3ly_theme
+"JavaScript seems to be disabled in your browser.","معطلة في المتصفح لديك JavaScript يبدو أن",theme,frontend/Sn3ly/sn3ly_theme
+"For the best experience on our site, be sure to turn on Javascript in your browser.","في متصفحك Javascript برجاء تشغيل ",theme,frontend/Sn3ly/sn3ly_theme
+"Local Storage seems to be disabled in your browser.","يبدو أن مساحة التخزين الداخلية بالمتصفح لديك غير مفعلة",theme,frontend/Sn3ly/sn3ly_theme
+"For the best experience on our site, be sure to turn on Local Storage in your browser.","برجاء تشغيل التخزين الداخلي للمتصفح لديك",theme,frontend/Sn3ly/sn3ly_theme
+"This is demo store. No orders will be fulfilled.","هذا متجر تجريبي, لن يتم الاهتمام بالاوامر المطلوبة",theme,frontend/Sn3ly/sn3ly_theme
 "Items %1 to %2 of %3 total","Items %1 to %2 of %3 total",theme,frontend/Sn3ly/sn3ly_theme
 "%1 Item","%1 Item",theme,frontend/Sn3ly/sn3ly_theme
 "%1 Item(s)","%1 Item(s)",theme,frontend/Sn3ly/sn3ly_theme
-Page,Page,theme,frontend/Sn3ly/sn3ly_theme
-"You're currently reading page","You're currently reading page",theme,frontend/Sn3ly/sn3ly_theme
-Next,Next,theme,frontend/Sn3ly/sn3ly_theme
-Show,Show,theme,frontend/Sn3ly/sn3ly_theme
-"per page","per page",theme,frontend/Sn3ly/sn3ly_theme
-"About the calendar","About the calendar",theme,frontend/Sn3ly/sn3ly_theme
-Close,Close,theme,frontend/Sn3ly/sn3ly_theme
-"Go Today","Go Today",theme,frontend/Sn3ly/sn3ly_theme
-WK,WK,theme,frontend/Sn3ly/sn3ly_theme
-Time,Time,theme,frontend/Sn3ly/sn3ly_theme
-Hour,Hour,theme,frontend/Sn3ly/sn3ly_theme
-Minute,Minute,theme,frontend/Sn3ly/sn3ly_theme
-"Read Details","Read Details",module,Magento_AdminNotification
-"Mark as Read","Mark as Read",module,Magento_AdminNotification
-"Are you sure?","Are you sure?",module,Magento_AdminNotification
-Remove,Remove,module,Magento_AdminNotification
-"Messages Inbox","Messages Inbox",module,Magento_AdminNotification
-"You have %1 new system messages","You have %1 new system messages",module,Magento_AdminNotification
-"You have %1 new system message","You have %1 new system message",module,Magento_AdminNotification
-"Incoming Message","Incoming Message",module,Magento_AdminNotification
-close,close,module,Magento_AdminNotification
-Notifications,Notifications,module,Magento_AdminNotification
-"The message has been marked as Read.","The message has been marked as Read.",module,Magento_AdminNotification
-"We couldn't mark the notification as Read because of an error.","We couldn't mark the notification as Read because of an error.",module,Magento_AdminNotification
-"Please select messages.","Please select messages.",module,Magento_AdminNotification
+Page,صفحة,theme,frontend/Sn3ly/sn3ly_theme
+"You're currently reading page","أنت الان تقرأ الصفحة",theme,frontend/Sn3ly/sn3ly_theme
+Next,التالي,theme,frontend/Sn3ly/sn3ly_theme
+Show,إظهار,theme,frontend/Sn3ly/sn3ly_theme
+"per page","لكل صفحة",theme,frontend/Sn3ly/sn3ly_theme
+"About the calendar","عن النتيجة",theme,frontend/Sn3ly/sn3ly_theme
+Close,قفل,theme,frontend/Sn3ly/sn3ly_theme
+"Go Today","الذهاب اليوم",theme,frontend/Sn3ly/sn3ly_theme
+WK,اسبوع,theme,frontend/Sn3ly/sn3ly_theme
+Time,وقت,theme,frontend/Sn3ly/sn3ly_theme
+Hour,ساعة,theme,frontend/Sn3ly/sn3ly_theme
+Minute,دقيقة,theme,frontend/Sn3ly/sn3ly_theme
+"Read Details","قراءة التفاصيل",module,Magento_AdminNotification
+"Mark as Read","ضع إشارة مقروء",module,Magento_AdminNotification
+"Are you sure?","هل انت متأكد؟",module,Magento_AdminNotification
+Remove,مسح,module,Magento_AdminNotification
+"Messages Inbox","الرسائل الواردة",module,Magento_AdminNotification
+"You have %1 new system messages","لديك 1% رسائل جديدة",module,Magento_AdminNotification
+"You have %1 new system message","لديك 1% رسالة جديدة",module,Magento_AdminNotification
+"Incoming Message","رسالة قادمة",module,Magento_AdminNotification
+close,قفل,module,Magento_AdminNotification
+Notifications,الإشعارات,module,Magento_AdminNotification
+"The message has been marked as Read.","تم وضع علامة مقروء على الرسالة",module,Magento_AdminNotification
+"We couldn't mark the notification as Read because of an error.","لم نتمكن من وضع الإشعار مقروء بسبب خطأ",module,Magento_AdminNotification
+"Please select messages.","برجاء اختيار الرسائل",module,Magento_AdminNotification
 "A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
 "Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
 "We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
