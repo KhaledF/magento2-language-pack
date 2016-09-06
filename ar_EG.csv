@@ -644,34 +644,34 @@ Unrecognized,غير معرفة,module,Magento_Braintree
 "Settlement pending","التسوية معلقة",module,Magento_Braintree
 "Settlement confirmed","التسوية أكدت",module,Magento_Braintree
 Sale,تخفيض,module,Magento_Braintree
-Credit,Credit,module,Magento_Braintree
-"Credit Card Type","Credit Card Type",module,Magento_Braintree
-"Credit Card Number","Credit Card Number",module,Magento_Braintree
-"Please, enter valid Credit Card Number","Please, enter valid Credit Card Number",module,Magento_Braintree
-"Expiration Date","Expiration Date",module,Magento_Braintree
-"Please, enter valid Expiration Date","Please, enter valid Expiration Date",module,Magento_Braintree
-"Card Verification Number","Card Verification Number",module,Magento_Braintree
-"Please, enter valid Card Verification Number","Please, enter valid Card Verification Number",module,Magento_Braintree
-ending,ending,module,Magento_Braintree
-expires,expires,module,Magento_Braintree
-"Percent Discount","Percent Discount",module,Magento_Bundle
-"-- Select --","-- Select --",module,Magento_Bundle
-Dynamic,Dynamic,module,Magento_Bundle
-Fixed,Fixed,module,Magento_Bundle
-"Create New Option","Create New Option",module,Magento_Bundle
-"Bundle Items","Bundle Items",module,Magento_Bundle
-"Add Products to Option","Add Products to Option",module,Magento_Bundle
-Close,Close,module,Magento_Bundle
-"Delete Option","Delete Option",module,Magento_Bundle
-"What are you looking for?","What are you looking for?",module,Magento_Bundle
+Credit,رصيد,module,Magento_Braintree
+"Credit Card Type","نوع بطاقة الإئتمان",module,Magento_Braintree
+"Credit Card Number","رقم بطاقة الإئتمان",module,Magento_Braintree
+"Please, enter valid Credit Card Number","برجاء إدخال رقم بطاقة إئتمان صحيح",module,Magento_Braintree
+"Expiration Date","تاريخ إنتهاء الصلاحية",module,Magento_Braintree
+"Please, enter valid Expiration Date","برجاء إدخال تاريخ إنتهاء الصلاحية صحيح",module,Magento_Braintree
+"Card Verification Number","الرقم التحقيقي للبطاقة",module,Magento_Braintree
+"Please, enter valid Card Verification Number","برجاء إدخال رقم تحقيقي صالح للبطاقة",module,Magento_Braintree
+ending,نهاية,module,Magento_Braintree
+expires,تنتهي,module,Magento_Braintree
+"Percent Discount","خصم في المية",module,Magento_Bundle
+"-- Select --","-- إختار --",module,Magento_Bundle
+Dynamic,ديناميكي,module,Magento_Bundle
+Fixed,ثابت,module,Magento_Bundle
+"Create New Option","إنشاء خيار جديد",module,Magento_Bundle
+"Bundle Items","عناصر الباقة",module,Magento_Bundle
+"Add Products to Option","إضافة المنتجات إلى الخيار",module,Magento_Bundle
+Close,غلق,module,Magento_Bundle
+"Delete Option","حذف الخيار",module,Magento_Bundle
+"What are you looking for?","عما تبحث؟",module,Magento_Bundle
 ID,ID,module,Magento_Bundle
-Product,Product,module,Magento_Bundle
+Product,منتج,module,Magento_Bundle
 SKU,SKU,module,Magento_Bundle
-Price,Price,module,Magento_Bundle
-Delete,Delete,module,Magento_Bundle
-"Use Default Value","Use Default Value",module,Magento_Bundle
-"There is no defined renderer for ""%1"" option type.","There is no defined renderer for ""%1"" option type.",module,Magento_Bundle
-"Only implemented for bundle product","Only implemented for bundle product",module,Magento_Bundle
+Price,سعر,module,Magento_Bundle
+Delete,حذف,module,Magento_Bundle
+"Use Default Value","استخدام القيمة الافتراضية",module,Magento_Bundle
+"There is no defined renderer for ""%1"" option type.","""%1"" لا يوجد مقدم معروف لنوع الخيار",module,Magento_Bundle
+"Only implemented for bundle product","تنفذ فقط لمنتجات الحزمة",module,Magento_Bundle
 "Product with specified sku: ""%1"" is not a bundle product","Product with specified sku: ""%1"" is not a bundle product",module,Magento_Bundle
 "Bundle product could not contain another composite product","Bundle product could not contain another composite product",module,Magento_Bundle
 "Id field of product link is required","Id field of product link is required",module,Magento_Bundle
