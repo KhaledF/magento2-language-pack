@@ -609,41 +609,41 @@ FTP,FTP,module,Magento_Backup
 "FTP Password","FTP Password",module,Magento_Backup
 "Magento root directory","Magento root directory",module,Magento_Backup
 "Create Backup","Create Backup",module,Magento_Backup
-Country,Country,module,Magento_Braintree
-"Allowed Credit Card Types","Allowed Credit Card Types",module,Magento_Braintree
-"Add Rule","Add Rule",module,Magento_Braintree
-"Braintree Settlement Report","Braintree Settlement Report",module,Magento_Braintree
-"Sorry, but something went wrong","Sorry, but something went wrong",module,Magento_Braintree
-"We can't initialize checkout.","We can't initialize checkout.",module,Magento_Braintree
-"No authorization transaction to proceed capture.","No authorization transaction to proceed capture.",module,Magento_Braintree
-"Braintree error response.","Braintree error response.",module,Magento_Braintree
-"Payment method nonce can't be retrieved.","Payment method nonce can't be retrieved.",module,Magento_Braintree
-"Wrong transaction status","Wrong transaction status",module,Magento_Braintree
-Authorize,Authorize,module,Magento_Braintree
-"Authorize and Capture","Authorize and Capture",module,Magento_Braintree
-"--Please Select--","--Please Select--",module,Magento_Braintree
-"Please agree to all the terms and conditions before placing the order.","Please agree to all the terms and conditions before placing the order.",module,Magento_Braintree
-"Paypal account","Paypal account",module,Magento_Braintree
-"Coinbase account","Coinbase account",module,Magento_Braintree
-"Europe bank account","Europe bank account",module,Magento_Braintree
-"Credit card","Credit card",module,Magento_Braintree
-"Apple pay card","Apple pay card",module,Magento_Braintree
-"Android pay card","Android pay card",module,Magento_Braintree
-"Authorization expired","Authorization expired",module,Magento_Braintree
-Authorizing,Authorizing,module,Magento_Braintree
-Authorized,Authorized,module,Magento_Braintree
+Country,البلد,module,Magento_Braintree
+"Allowed Credit Card Types","انواع بطاقات الإئتمان المسموحة",module,Magento_Braintree
+"Add Rule","إضافة قاعدة",module,Magento_Braintree
+"Braintree Settlement Report","Braintree تقرير تسوية",module,Magento_Braintree
+"Sorry, but something went wrong","نأسف, لقد حدث خطأ ما",module,Magento_Braintree
+"We can't initialize checkout.","لا نستطيع بدأ الدفع.",module,Magento_Braintree
+"No authorization transaction to proceed capture.","لا يمكن إتمام عملية غير مصرح بها",module,Magento_Braintree
+"Braintree error response.","Braintree خطأ في استجابة",module,Magento_Braintree
+"Payment method nonce can't be retrieved.","طريقة الدفع الحالية لا يمكن استرجاعها.",module,Magento_Braintree
+"Wrong transaction status","حالة المعاملة خطأ",module,Magento_Braintree
+Authorize,يأذن,module,Magento_Braintree
+"Authorize and Capture","تخويل والتقاط",module,Magento_Braintree
+"--Please Select--","--برجاء الإختيار--",module,Magento_Braintree
+"Please agree to all the terms and conditions before placing the order.","يرجى ان توافق على جميع البنود والشروط قبل تقديم الطلب.",module,Magento_Braintree
+"Paypal account","Paypal حساب",module,Magento_Braintree
+"Coinbase account","Coinbase حساب",module,Magento_Braintree
+"Europe bank account","Europe حساب بنكي",module,Magento_Braintree
+"Credit card","بطاقة إئتمان",module,Magento_Braintree
+"Apple pay card","Apple بطاقة دفع",module,Magento_Braintree
+"Android pay card","Android بطاقة دفع",module,Magento_Braintree
+"Authorization expired","إنتهت صلاحية الإذن",module,Magento_Braintree
+Authorizing,يفوض,module,Magento_Braintree
+Authorized,مخول,module,Magento_Braintree
 "Gateway rejected","Gateway rejected",module,Magento_Braintree
-Failed,Failed,module,Magento_Braintree
-"Processor declined","Processor declined",module,Magento_Braintree
-Settled,Settled,module,Magento_Braintree
-Settling,Settling,module,Magento_Braintree
-"Submitted for settlement","Submitted for settlement",module,Magento_Braintree
-Voided,Voided,module,Magento_Braintree
-Unrecognized,Unrecognized,module,Magento_Braintree
-"Settlement declined","Settlement declined",module,Magento_Braintree
-"Settlement pending","Settlement pending",module,Magento_Braintree
-"Settlement confirmed","Settlement confirmed",module,Magento_Braintree
-Sale,Sale,module,Magento_Braintree
+Failed,فشلت,module,Magento_Braintree
+"Processor declined","المعالج رفض",module,Magento_Braintree
+Settled,سويت,module,Magento_Braintree
+Settling,تسوية,module,Magento_Braintree
+"Submitted for settlement","قدمت للتسوية",module,Magento_Braintree
+Voided,باطلة,module,Magento_Braintree
+Unrecognized,غير معرفة,module,Magento_Braintree
+"Settlement declined","التسوية رفضت",module,Magento_Braintree
+"Settlement pending","التسوية معلقة",module,Magento_Braintree
+"Settlement confirmed","التسوية أكدت",module,Magento_Braintree
+Sale,تخفيض,module,Magento_Braintree
 Credit,Credit,module,Magento_Braintree
 "Credit Card Type","Credit Card Type",module,Magento_Braintree
 "Credit Card Number","Credit Card Number",module,Magento_Braintree
