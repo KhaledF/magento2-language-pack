@@ -180,85 +180,85 @@ Notifications,الإشعارات,module,Magento_AdminNotification
 "The message has been marked as Read.","تم وضع علامة مقروء على الرسالة",module,Magento_AdminNotification
 "We couldn't mark the notification as Read because of an error.","لم نتمكن من وضع الإشعار مقروء بسبب خطأ",module,Magento_AdminNotification
 "Please select messages.","برجاء اختيار الرسائل",module,Magento_AdminNotification
-"A total of %1 record(s) have been marked as Read.","A total of %1 record(s) have been marked as Read.",module,Magento_AdminNotification
-"Total of %1 record(s) have been removed.","Total of %1 record(s) have been removed.",module,Magento_AdminNotification
-"We couldn't remove the messages because of an error.","We couldn't remove the messages because of an error.",module,Magento_AdminNotification
-"The message has been removed.","The message has been removed.",module,Magento_AdminNotification
-"1 Hour","1 Hour",module,Magento_AdminNotification
-"2 Hours","2 Hours",module,Magento_AdminNotification
-"6 Hours","6 Hours",module,Magento_AdminNotification
-"12 Hours","12 Hours",module,Magento_AdminNotification
-"24 Hours","24 Hours",module,Magento_AdminNotification
-critical,critical,module,Magento_AdminNotification
-major,major,module,Magento_AdminNotification
-minor,minor,module,Magento_AdminNotification
-notice,notice,module,Magento_AdminNotification
-"Wrong message type","Wrong message type",module,Magento_AdminNotification
-"Wrong notification ID specified.","Wrong notification ID specified.",module,Magento_AdminNotification
+"A total of %1 record(s) have been marked as Read."," %1 تم وضع علامة مقروء على ",module,Magento_AdminNotification
+"Total of %1 record(s) have been removed."," %1 تم مسح",module,Magento_AdminNotification
+"We couldn't remove the messages because of an error.","لم نستطيع مسح الرسالة بسبب خطأ ما",module,Magento_AdminNotification
+"The message has been removed.","تم مسح الرسالة",module,Magento_AdminNotification
+"1 Hour","1 ساعة",module,Magento_AdminNotification
+"2 Hours","2 ساعات",module,Magento_AdminNotification
+"6 Hours","6 ساعات",module,Magento_AdminNotification
+"12 Hours","12 ساعة",module,Magento_AdminNotification
+"24 Hours","24 ساعة",module,Magento_AdminNotification
+critical,حرج,module,Magento_AdminNotification
+major,رئيسي,module,Magento_AdminNotification
+minor,ثانوي,module,Magento_AdminNotification
+notice,ملاحظة,module,Magento_AdminNotification
+"Wrong message type","نوع رسالة خاطأ",module,Magento_AdminNotification
+"Wrong notification ID specified.","خطأ في الرقم التعريفي للإخطار",module,Magento_AdminNotification
 "{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.","{{base_url}} is not recommended to use in a production environment to declare the Base Unsecure URL / Base Secure URL. We highly recommend changing this value in your Magento <a href=""%1"">configuration</a>.",module,Magento_AdminNotification
 "One or more of the Cache Types are invalidated: %1. ","One or more of the Cache Types are invalidated: %1. ",module,Magento_AdminNotification
 "Please go to <a href=""%1"">Cache Management</a> and refresh cache types.","Please go to <a href=""%1"">Cache Management</a> and refresh cache types.",module,Magento_AdminNotification
 "We were unable to synchronize one or more media files. Please refer to the log file for details.","We were unable to synchronize one or more media files. Please refer to the log file for details.",module,Magento_AdminNotification
 "Synchronization of media storages has been completed.","Synchronization of media storages has been completed.",module,Magento_AdminNotification
 "Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.","Your web server is set up incorrectly and allows unauthorized access to sensitive files. Please contact your hosting provider.",module,Magento_AdminNotification
-"System Messages:","System Messages:",module,Magento_AdminNotification
-"Critical System Messages","Critical System Messages",module,Magento_AdminNotification
-"Major System Messages","Major System Messages",module,Magento_AdminNotification
-"System messages","System messages",module,Magento_AdminNotification
-Close,Close,module,Magento_AdminNotification
-"See All (","See All (",module,Magento_AdminNotification
-" unread)"," unread)",module,Magento_AdminNotification
-"Please correct the data sent.","Please correct the data sent.",module,Magento_AdvancedPricingImportExport
+"System Messages:","رسائل النظام:",module,Magento_AdminNotification
+"Critical System Messages","رسائل النظام الحرجة",module,Magento_AdminNotification
+"Major System Messages","رسائل النظام الرئيسية",module,Magento_AdminNotification
+"System messages","رسائل النظام",module,Magento_AdminNotification
+Close,غلق,module,Magento_AdminNotification
+"See All (","رؤية الكل (",module,Magento_AdminNotification
+" unread)"," غير مقروء)",module,Magento_AdminNotification
+"Please correct the data sent.","برجاء تصحيح البيانات المرسلة",module,Magento_AdvancedPricingImportExport
 "Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_AdvancedPricingImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_AdvancedPricingImportExport
 "There are no product types available for export","There are no product types available for export",module,Magento_AdvancedPricingImportExport
 "We can't find the role for the user you wanted.","We can't find the role for the user you wanted.",module,Magento_Authorization
 "Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.","Something went wrong while compiling a list of allowed resources. You can find out more in the exceptions log.",module,Magento_Authorization
-"You created the order.","You created the order.",module,Magento_Authorizenet
-"Order saving error: %1","Order saving error: %1",module,Magento_Authorizenet
-"Please choose a payment method.","Please choose a payment method.",module,Magento_Authorizenet
-"We can't process your order right now. Please try again later.","We can't process your order right now. Please try again later.",module,Magento_Authorizenet
-"Unable to place order. Please try again later.","Unable to place order. Please try again later.",module,Magento_Authorizenet
-"Credit Card: xxxx-%1","Credit Card: xxxx-%1",module,Magento_Authorizenet
-"amount %1","amount %1",module,Magento_Authorizenet
-failed.,failed.,module,Magento_Authorizenet
-successful.,successful.,module,Magento_Authorizenet
+"You created the order.","لقد أنشأت الأمر",module,Magento_Authorizenet
+"Order saving error: %1","خطأ في حفظ الأمر: %1",module,Magento_Authorizenet
+"Please choose a payment method.","برجاء إختيار طريقة الدفع",module,Magento_Authorizenet
+"We can't process your order right now. Please try again later.","لم نستطيع إكمال العملية الان, برجاء المحاولة مرة اخرى لاحقا",module,Magento_Authorizenet
+"Unable to place order. Please try again later.","لم نستطيع إكمال العملية الان, برجاء المحاولة مرة اخرى لاحقا",module,Magento_Authorizenet
+"Credit Card: xxxx-%1","بطاقة الإئتمان: xxxx-%1",module,Magento_Authorizenet
+"amount %1","كمية %1",module,Magento_Authorizenet
+failed.,فشل.,module,Magento_Authorizenet
+successful.,ناجحة.,module,Magento_Authorizenet
 "Authorize.Net Transaction ID %1.","Authorize.Net Transaction ID %1.",module,Magento_Authorizenet
-authorize,authorize,module,Magento_Authorizenet
-"authorize and capture","authorize and capture",module,Magento_Authorizenet
-capture,capture,module,Magento_Authorizenet
-refund,refund,module,Magento_Authorizenet
-void,void,module,Magento_Authorizenet
+authorize,يأذن,module,Magento_Authorizenet
+"authorize and capture","تخويل والتقاط",module,Magento_Authorizenet
+capture,التقاط,module,Magento_Authorizenet
+refund,إعادة مال,module,Magento_Authorizenet
+void,تجنب,module,Magento_Authorizenet
 "Gateway error: %1","Gateway error: %1",module,Magento_Authorizenet
-"Something went wrong in the payment gateway.","Something went wrong in the payment gateway.",module,Magento_Authorizenet
-"Invalid amount for capture.","Invalid amount for capture.",module,Magento_Authorizenet
-"Payment capturing error.","Payment capturing error.",module,Magento_Authorizenet
-"Invalid transaction ID.","Invalid transaction ID.",module,Magento_Authorizenet
-"Payment voiding error.","Payment voiding error.",module,Magento_Authorizenet
-"Invalid amount for refund.","Invalid amount for refund.",module,Magento_Authorizenet
-"Payment refunding error.","Payment refunding error.",module,Magento_Authorizenet
+"Something went wrong in the payment gateway.","حدث خطأ في بوابة الدفع.",module,Magento_Authorizenet
+"Invalid amount for capture.","كمية غير صالح للالتقاط.",module,Magento_Authorizenet
+"Payment capturing error.","خطأ في إلتقاط الدفع.",module,Magento_Authorizenet
+"Invalid transaction ID.","تعريف المعاملة غير صالح.",module,Magento_Authorizenet
+"Payment voiding error.","خطأ فى إبطال الدفع.",module,Magento_Authorizenet
+"Invalid amount for refund.","كمية غير صالحة للاسترداد.",module,Magento_Authorizenet
+"Payment refunding error.","خطأ فى استرداد الدفع.",module,Magento_Authorizenet
 "The transaction was declined because the response hash validation failed.","The transaction was declined because the response hash validation failed.",module,Magento_Authorizenet
-"This payment didn't work out because we can't find this order.","This payment didn't work out because we can't find this order.",module,Magento_Authorizenet
-"There was a payment authorization error.","There was a payment authorization error.",module,Magento_Authorizenet
-"Please enter a transaction ID to authorize this payment.","Please enter a transaction ID to authorize this payment.",module,Magento_Authorizenet
-"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.",module,Magento_Authorizenet
-"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","Transaction %1 has been approved. Amount %2. Transaction status is ""%3""",module,Magento_Authorizenet
-"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.",module,Magento_Authorizenet
-"Authorize Only","Authorize Only",module,Magento_Authorizenet
-"Authorize and Capture","Authorize and Capture",module,Magento_Authorizenet
-"Unable to get transaction details. Try again later.","Unable to get transaction details. Try again later.",module,Magento_Authorizenet
-"Credit Card Type","Credit Card Type",module,Magento_Authorizenet
-"Credit Card Number","Credit Card Number",module,Magento_Authorizenet
-"Expiration Date","Expiration Date",module,Magento_Authorizenet
-"Card Verification Number","Card Verification Number",module,Magento_Authorizenet
-"Fraud Detection ","Fraud Detection ",module,Magento_Authorizenet
-"FDS Filter Action","FDS Filter Action",module,Magento_Authorizenet
-"AVS Response","AVS Response",module,Magento_Authorizenet
-"Card Code Response","Card Code Response",module,Magento_Authorizenet
-"CAVV Response","CAVV Response",module,Magento_Authorizenet
-"Fraud Filters","Fraud Filters",module,Magento_Authorizenet
-"Invalid Form Key. Please refresh the page.","Invalid Form Key. Please refresh the page.",module,Magento_Backend
-"You entered an invalid Secret Key. Please refresh the page.","You entered an invalid Secret Key. Please refresh the page.",module,Magento_Backend
+"This payment didn't work out because we can't find this order.","عملية الدفع لم تنجح بسبب أننا لم نجد أمر الشراء.",module,Magento_Authorizenet
+"There was a payment authorization error.","هناك خطأ في إذن الدفع.",module,Magento_Authorizenet
+"Please enter a transaction ID to authorize this payment.","الرجاء إدخال تعريف المعاملة لتخويل الدفع.",module,Magento_Authorizenet
+"Something went wrong: the paid amount doesn't match the order amount. Please correct this and try again.","حدث خطأ ما: المبلغ المدفوع لا يطابق مبلغ أمر الشراء. يرجى تصحيح هذا والمحاولة مرة أخرى.",module,Magento_Authorizenet
+"Transaction %1 has been approved. Amount %2. Transaction status is ""%3""","تمت الموافقة على العملية 1%. بمبلغ 2%. وحالة العملية ""3%""",module,Magento_Authorizenet
+"Transaction %1 has been voided/declined. Transaction status is ""%2"". Amount %3.","رفضت العملية 1%. حالة العملية 2%. المبلغ 3%",module,Magento_Authorizenet
+"Authorize Only","يأذن فقط",module,Magento_Authorizenet
+"Authorize and Capture","تخويل والتقاط",module,Magento_Authorizenet
+"Unable to get transaction details. Try again later.","غير قادر على الحصول على تفاصيل الصفقة. حاول مرة أخرى في وقت لاحق.",module,Magento_Authorizenet
+"Credit Card Type","نوع بطاقة الإئتمان",module,Magento_Authorizenet
+"Credit Card Number","رقم بطاقة الإئتمان",module,Magento_Authorizenet
+"Expiration Date","تاريخ إنتهاء الصلاحية",module,Magento_Authorizenet
+"Card Verification Number","الرقم التحقيقي للبطاقة",module,Magento_Authorizenet
+"Fraud Detection ","كشف التزوير ",module,Magento_Authorizenet
+"FDS Filter Action","FDS إجراء التصفية",module,Magento_Authorizenet
+"AVS Response","AVS استجابة",module,Magento_Authorizenet
+"Card Code Response","استجابة كود بطاقة",module,Magento_Authorizenet
+"CAVV Response","CAVV استجابة",module,Magento_Authorizenet
+"Fraud Filters","مرشحات الاحتيال",module,Magento_Authorizenet
+"Invalid Form Key. Please refresh the page.","مفتاح نموذج غير صالح. يرجى تحديث الصفحة.",module,Magento_Backend
+"You entered an invalid Secret Key. Please refresh the page.","لقد أدخلت مفتاح سري غير صالح. يرجى تحديث الصفحة.",module,Magento_Backend
 "Cache Storage Management","Cache Storage Management",module,Magento_Backend
 "Flush Magento Cache","Flush Magento Cache",module,Magento_Backend
 "The cache storage may contain additional data. Are you sure that you want to flush it?","The cache storage may contain additional data. Are you sure that you want to flush it?",module,Magento_Backend
