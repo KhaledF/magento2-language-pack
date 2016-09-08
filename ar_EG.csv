@@ -685,48 +685,48 @@ Delete,حذف,module,Magento_Bundle
 "Requested option doesn't exist","Requested option doesn't exist",module,Magento_Bundle
 "Cannot delete option with id %1","Cannot delete option with id %1",module,Magento_Bundle
 "Could not save option","Could not save option",module,Magento_Bundle
-"Price Range","Price Range",module,Magento_Bundle
-"As Low as","As Low as",module,Magento_Bundle
-Together,Together,module,Magento_Bundle
-Separately,Separately,module,Magento_Bundle
-"Please specify product option(s).","Please specify product option(s).",module,Magento_Bundle
-"The options you selected are not available.","The options you selected are not available.",module,Magento_Bundle
-"The required options you selected are not available.","The required options you selected are not available.",module,Magento_Bundle
-"Please select all required options.","Please select all required options.",module,Magento_Bundle
-"We can't add this item to your shopping cart right now.","We can't add this item to your shopping cart right now.",module,Magento_Bundle
-N/A,N/A,module,Magento_Bundle
-Percent,Percent,module,Magento_Bundle
-"We can't save custom-defined options for bundles with dynamic pricing.","We can't save custom-defined options for bundles with dynamic pricing.",module,Magento_Bundle
-Cancel,Cancel,module,Magento_Bundle
-"Add Selected Products","Add Selected Products",module,Magento_Bundle
-"Add Option","Add Option",module,Magento_Bundle
-"New Option","New Option",module,Magento_Bundle
-"Option Title","Option Title",module,Magento_Bundle
-"Default Title","Default Title",module,Magento_Bundle
+"Price Range","حدود المنتج",module,Magento_Bundle
+"As Low as","منخفضة تصل إلى",module,Magento_Bundle
+Together,معا,module,Magento_Bundle
+Separately,على حدة,module,Magento_Bundle
+"Please specify product option(s).","برجاء تحديد خيارات المنتج",module,Magento_Bundle
+"The options you selected are not available.","الخيارات التي حددتها غير متوفرة",module,Magento_Bundle
+"The required options you selected are not available.","الإجراءات المطلوبة التي حددتها غير متوفرة",module,Magento_Bundle
+"Please select all required options.","يرجى تحديد كافة الخيارات المطلوبة",module,Magento_Bundle
+"We can't add this item to your shopping cart right now.","لا يمكن إضافة هذا البند إلى عربة التسوق الخاصة بك الآن",module,Magento_Bundle
+N/A,غير قابل للتطبيق,module,Magento_Bundle
+Percent,نسبة,module,Magento_Bundle
+"We can't save custom-defined options for bundles with dynamic pricing.","لا يمكننا حفظ  خيارات محددة مخصصة للحزم مع التسعير الديناميكي.",module,Magento_Bundle
+Cancel,إلغاء,module,Magento_Bundle
+"Add Selected Products","إضافة منتجات مختارة",module,Magento_Bundle
+"Add Option","إضافة خيار",module,Magento_Bundle
+"New Option","خيار جديد",module,Magento_Bundle
+"Option Title","عنوان الخيار",module,Magento_Bundle
+"Default Title","العنوان الإفتراضي",module,Magento_Bundle
 "Store View Title","Store View Title",module,Magento_Bundle
-"Input Type","Input Type",module,Magento_Bundle
+"Input Type","نوع الإدخال",module,Magento_Bundle
 Drop-down,Drop-down,module,Magento_Bundle
 "Radio Buttons","Radio Buttons",module,Magento_Bundle
 Checkbox,Checkbox,module,Magento_Bundle
 "Multiple Select","Multiple Select",module,Magento_Bundle
-Required,Required,module,Magento_Bundle
-"Is Default","Is Default",module,Magento_Bundle
-Name,Name,module,Magento_Bundle
-"Default Quantity","Default Quantity",module,Magento_Bundle
-"User Defined","User Defined",module,Magento_Bundle
-"Price Type","Price Type",module,Magento_Bundle
-None,None,module,Magento_Bundle
-Quantity:,Quantity:,module,Magento_Bundle
-"Choose a selection...","Choose a selection...",module,Magento_Bundle
-"Ship Bundle Items","Ship Bundle Items",module,Magento_Bundle
-Position,Position,module,Magento_Bundle
-"There are no products in this option.","There are no products in this option.",module,Magento_Bundle
-Default,Default,module,Magento_Bundle
-Ordered,Ordered,module,Magento_Bundle
-Invoiced,Invoiced,module,Magento_Bundle
-Shipped,Shipped,module,Magento_Bundle
-Refunded,Refunded,module,Magento_Bundle
-Canceled,Canceled,module,Magento_Bundle
+Required,مطلوب,module,Magento_Bundle
+"Is Default","إقتراضي",module,Magento_Bundle
+Name,اسم,module,Magento_Bundle
+"Default Quantity","الكمية الإفتراضية",module,Magento_Bundle
+"User Defined","تعريف المستخدم",module,Magento_Bundle
+"Price Type","نوع السعر",module,Magento_Bundle
+None,لا شئ,module,Magento_Bundle
+Quantity:,كمية:,module,Magento_Bundle
+"Choose a selection...","اختار مجموعة محددة...",module,Magento_Bundle
+"Ship Bundle Items","شحن حزمة البنود",module,Magento_Bundle
+Position,موجب,module,Magento_Bundle
+"There are no products in this option.","لا يوجد منتجات في هذا الخيار",module,Magento_Bundle
+Default,إفتراضي,module,Magento_Bundle
+Ordered,طلب,module,Magento_Bundle
+Invoiced,الفاتورة صدرت,module,Magento_Bundle
+Shipped,شحنت,module,Magento_Bundle
+Refunded,تمت إعادة المال,module,Magento_Bundle
+Canceled,ألغيت,module,Magento_Bundle
 "As low as","As low as",module,Magento_Bundle
 "Regular Price","Regular Price",module,Magento_Bundle
 From,From,module,Magento_Bundle
