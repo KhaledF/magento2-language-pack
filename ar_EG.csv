@@ -727,47 +727,47 @@ Invoiced,الفاتورة صدرت,module,Magento_Bundle
 Shipped,شحنت,module,Magento_Bundle
 Refunded,تمت إعادة المال,module,Magento_Bundle
 Canceled,ألغيت,module,Magento_Bundle
-"As low as","As low as",module,Magento_Bundle
-"Regular Price","Regular Price",module,Magento_Bundle
-From,From,module,Magento_Bundle
-To,To,module,Magento_Bundle
-"Buy %1 with %2 discount each","Buy %1 with %2 discount each",module,Magento_Bundle
-"Go back to product details","Go back to product details",module,Magento_Bundle
-"Customize and Add to Cart","Customize and Add to Cart",module,Magento_Bundle
-"* Required Fields","* Required Fields",module,Magento_Bundle
-"Your Customization","Your Customization",module,Magento_Bundle
-Availability,Availability,module,Magento_Bundle
-"In stock","In stock",module,Magento_Bundle
-"Out of stock","Out of stock",module,Magento_Bundle
-Summary,Summary,module,Magento_Bundle
+"As low as","منخفضة تصل إلى",module,Magento_Bundle
+"Regular Price","سعر اعتيادي",module,Magento_Bundle
+From,من,module,Magento_Bundle
+To,الى,module,Magento_Bundle
+"Buy %1 with %2 discount each","%2 اشتري %1 بخصم",module,Magento_Bundle
+"Go back to product details","العودة الى تفاصيل المنتج",module,Magento_Bundle
+"Customize and Add to Cart","تخصيص وإضافة إلى العربة",module,Magento_Bundle
+"* Required Fields","* خانات مطلوبة",module,Magento_Bundle
+"Your Customization","التخصيص الخاص بك",module,Magento_Bundle
+Availability,الاتاحة,module,Magento_Bundle
+"In stock","متاح في المخزن",module,Magento_Bundle
+"Out of stock","إنتهى من المخزن",module,Magento_Bundle
+Summary,ملخص,module,Magento_Bundle
 "%1 x %2","%1 x %2",module,Magento_Bundle
-Availability:,Availability:,module,Magento_Bundle
-Quantity,Quantity,module,Magento_Bundle
-"Customize %1","Customize %1",module,Magento_Bundle
-"No options of this product are available.","No options of this product are available.",module,Magento_Bundle
-"Gift Message","Gift Message",module,Magento_Bundle
-From:,From:,module,Magento_Bundle
-To:,To:,module,Magento_Bundle
-Message:,Message:,module,Magento_Bundle
-"Product Name","Product Name",module,Magento_Bundle
-Subtotal,Subtotal,module,Magento_Bundle
-"Discount Amount","Discount Amount",module,Magento_Bundle
-"Row Total","Row Total",module,Magento_Bundle
-"Qty Invoiced","Qty Invoiced",module,Magento_Bundle
-"Qty Shipped","Qty Shipped",module,Magento_Bundle
-Always,Always,module,Magento_Captcha
-"After number of attempts to login","After number of attempts to login",module,Magento_Captcha
-"Provided form does not exist","Provided form does not exist",module,Magento_Captcha
-"Incorrect CAPTCHA","Incorrect CAPTCHA",module,Magento_Captcha
-"Incorrect CAPTCHA.","Incorrect CAPTCHA.",module,Magento_Captcha
-"The account is locked. Please wait and try again or contact %1.","The account is locked. Please wait and try again or contact %1.",module,Magento_Captcha
-"Please enter the letters from the image","Please enter the letters from the image",module,Magento_Captcha
-"<strong>Attention</strong>: Captcha is case sensitive.","<strong>Attention</strong>: Captcha is case sensitive.",module,Magento_Captcha
-"Reload captcha","Reload captcha",module,Magento_Captcha
-"Please type the letters below","Please type the letters below",module,Magento_Captcha
-"Entity type model '%1' is not found","Entity type model '%1' is not found",module,Magento_CatalogImportExport
+Availability:,الاتاحة:,module,Magento_Bundle
+Quantity,كمية,module,Magento_Bundle
+"Customize %1","%1 تخصيص",module,Magento_Bundle
+"No options of this product are available.","لا توجد خيارات من هذا المنتج المتاحة.",module,Magento_Bundle
+"Gift Message","رسالة هدية",module,Magento_Bundle
+From:,من:,module,Magento_Bundle
+To:,الى:,module,Magento_Bundle
+Message:,رسالة:,module,Magento_Bundle
+"Product Name","اسم المنتج",module,Magento_Bundle
+Subtotal,إجمالي المبلغ,module,Magento_Bundle
+"Discount Amount","مقدار الخصم",module,Magento_Bundle
+"Row Total","صف إجمالي",module,Magento_Bundle
+"Qty Invoiced","الكمية بفاتورة",module,Magento_Bundle
+"Qty Shipped","الكمية بالشحن",module,Magento_Bundle
+Always,دائما,module,Magento_Captcha
+"After number of attempts to login","بعد عدد محاولات تسجيل الدخول",module,Magento_Captcha
+"Provided form does not exist","القالب المقدم غير موجود",module,Magento_Captcha
+"Incorrect CAPTCHA","كلمة التحقق غير صحيح",module,Magento_Captcha
+"Incorrect CAPTCHA.","كلمة التحقق غير صحيح.",module,Magento_Captcha
+"The account is locked. Please wait and try again or contact %1.","%1 الحساب مغلق. الرجاء الانتظار والمحاولة مرة أخرى أو التواصل مع",module,Magento_Captcha
+"Please enter the letters from the image","برجاء ادخال الحروف من الصورة",module,Magento_Captcha
+"<strong>Attention</strong>: Captcha is case sensitive.","حروف كلمة التحقق حساسة ويجب كتابتها كما هى :<strong>انتبه</strong>",module,Magento_Captcha
+"Reload captcha","إعادة تحميل كلمة التحقق",module,Magento_Captcha
+"Please type the letters below","برجاء كتابة الحروف بالاسفل",module,Magento_Captcha
+"Entity type model '%1' is not found"," '%1' هذا النوع غير موجود ",module,Magento_CatalogImportExport
 "Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType","Entity type model must be an instance of \Magento\CatalogImportExport\Model\Export\Product\Type\AbstractType",module,Magento_CatalogImportExport
-"There are no product types available for export.","There are no product types available for export.",module,Magento_CatalogImportExport
+"There are no product types available for export.","لا توجد أنواع منتجات متاحة للتصدير.",module,Magento_CatalogImportExport
 "Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType","Entity type model must be an instance of Magento\CatalogImportExport\Model\Import\Product\Type\AbstractType",module,Magento_CatalogImportExport
 "Category ""%1"" has not been created.","Category ""%1"" has not been created.",module,Magento_CatalogImportExport
 "File directory '%1' is not readable.","File directory '%1' is not readable.",module,Magento_CatalogImportExport
@@ -784,19 +784,19 @@ Always,Always,module,Magento_Captcha
 "Every option entity must have a parent product entity.","Every option entity must have a parent product entity.",module,Magento_CatalogImportExport
 "Please correct the parameters.","Please correct the parameters.",module,Magento_CatalogImportExport
 "File '%1' was not found or has read restriction.","File '%1' was not found or has read restriction.",module,Magento_CatalogImportExport
-"ALL GROUPS","ALL GROUPS",module,Magento_CatalogInventory
-"Customer Group","Customer Group",module,Magento_CatalogInventory
-"Minimum Qty","Minimum Qty",module,Magento_CatalogInventory
-"Add Minimum Qty","Add Minimum Qty",module,Magento_CatalogInventory
-"We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_CatalogInventory
-"Could not rebuild index for empty products array","Could not rebuild index for empty products array",module,Magento_CatalogInventory
+"ALL GROUPS","جميع الفئات",module,Magento_CatalogInventory
+"Customer Group","مجموعة العملاء",module,Magento_CatalogInventory
+"Minimum Qty","ادنى كمية",module,Magento_CatalogInventory
+"Add Minimum Qty","إضافة ادنى كمية",module,Magento_CatalogInventory
+"We can't rebuild the index for an undefined product.","نحن لا نستطيع إعادة بناء مؤشر لمنتج غير معروف.",module,Magento_CatalogInventory
+"Could not rebuild index for empty products array","لا يمكننا إعادة بناء مؤشر لمجموعة فارغة من المنتجات",module,Magento_CatalogInventory
 "Invalid stock id: %1. Only default stock with id %2 allowed","Invalid stock id: %1. Only default stock with id %2 allowed",module,Magento_CatalogInventory
 "Invalid stock item id: %1. Should be null or numeric value greater than 0","Invalid stock item id: %1. Should be null or numeric value greater than 0",module,Magento_CatalogInventory
 "Invalid stock item id: %1. Assigned stock item id is %2","Invalid stock item id: %1. Assigned stock item id is %2",module,Magento_CatalogInventory
-"The stock item for Product is not valid.","The stock item for Product is not valid.",module,Magento_CatalogInventory
-"This product is out of stock.","This product is out of stock.",module,Magento_CatalogInventory
-"Some of the products are out of stock.","Some of the products are out of stock.",module,Magento_CatalogInventory
-"The stock item for Product in option is not valid.","The stock item for Product in option is not valid.",module,Magento_CatalogInventory
+"The stock item for Product is not valid.","البند المخزون عن المنتج غير صالح.",module,Magento_CatalogInventory
+"This product is out of stock.","نفد هذا المنتج من المخازن.",module,Magento_CatalogInventory
+"Some of the products are out of stock.","بعض المنتجات نفذت من المخزون.",module,Magento_CatalogInventory
+"The stock item for Product in option is not valid.","البند المخزون عن المنتج في الخيار غير صالح.",module,Magento_CatalogInventory
 "Undefined product type","Undefined product type",module,Magento_CatalogInventory
 "%1 is not a correct comparison method.","%1 is not a correct comparison method.",module,Magento_CatalogInventory
 "No Backorders","No Backorders",module,Magento_CatalogInventory
