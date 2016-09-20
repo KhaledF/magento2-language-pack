@@ -816,38 +816,38 @@ Always,دائما,module,Magento_Captcha
 "Product with SKU ""%1"" does not exist","المنتج المعرف ب ""%1"" ليس موجودا",module,Magento_CatalogInventory
 "The fewest you may purchase is %1.","أقل عدد يمكنك شراءه هو %1",module,Magento_CatalogInventory
 "Please correct the quantity for some products.","برجاء تصحيح الكمية لبض المنتجات",module,Magento_CatalogInventory
-"The most you may purchase is %1.","The most you may purchase is %1.",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested.","We don't have as many ""%1"" as you requested.",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.",module,Magento_CatalogInventory
-"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.",module,Magento_CatalogInventory
+"The most you may purchase is %1.","أكثر ما يمكن شراءه هو %1",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested.","ليس لدينا عدد ""%1"" كما طلبت",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","ليس لدينا عدد ""%1"" كما طلبت", ولكن سوف نسترجع %2 المتبقي",module,Magento_CatalogInventory
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","ليس لدينا عدد ""%1"" كما طلبت", لذلك سوف نسترجع %2 المتبقي",m",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","You can buy %1 only in quantities of %2 at a time.",module,Magento_CatalogInventory
-"You can buy this product only in quantities of %1 at a time.","You can buy this product only in quantities of %1 at a time.",module,Magento_CatalogInventory
-"Decimal qty increments is not allowed.","Decimal qty increments is not allowed.",module,Magento_CatalogInventory
-"Stock Status","Stock Status",module,Magento_CatalogInventory
-Quantity,Quantity,module,Magento_CatalogInventory
-"Advanced Inventory","Advanced Inventory",module,Magento_CatalogInventory
-"%1 is available to buy in increments of %2","%1 is available to buy in increments of %2",module,Magento_CatalogInventory
-"Only %1 left","Only %1 left",module,Magento_CatalogInventory
-"Product availability","Product availability",module,Magento_CatalogInventory
-"Product Name","Product Name",module,Magento_CatalogInventory
-Qty,Qty,module,Magento_CatalogInventory
-"Delete Rule","Delete Rule",module,Magento_CatalogRule
-"Are you sure you want to do this?","Are you sure you want to do this?",module,Magento_CatalogRule
-Reset,Reset,module,Magento_CatalogRule
-"Save and Apply","Save and Apply",module,Magento_CatalogRule
-"Save and Continue Edit","Save and Continue Edit",module,Magento_CatalogRule
-Save,Save,module,Magento_CatalogRule
-"Catalog Price Rule","Catalog Price Rule",module,Magento_CatalogRule
-"Add New Rule","Add New Rule",module,Magento_CatalogRule
-"Apply Rules","Apply Rules",module,Magento_CatalogRule
-Conditions,Conditions,module,Magento_CatalogRule
+"You can buy this product only in quantities of %1 at a time.","يمكنك شراء هذا المنتج فقط في كميات من %1 في وقت واحد.",module,Magento_CatalogInventory
+"Decimal qty increments is not allowed.","لا يسمح بزيادة الكمية العشرية.",module,Magento_CatalogInventory
+"Stock Status","حالة المخزون",module,Magento_CatalogInventory
+Quantity,كمية,module,Magento_CatalogInventory
+"Advanced Inventory","مخزن متطور",module,Magento_CatalogInventory
+"%1 is available to buy in increments of %2","%1 متاح للشراء بزيادات %2",module,Magento_CatalogInventory
+"Only %1 left","فقط %1 متبقي",module,Magento_CatalogInventory
+"Product availability","توافر المنتج",module,Magento_CatalogInventory
+"Product Name","اسم المنتج",module,Magento_CatalogInventory
+Qty,كمية,module,Magento_CatalogInventory
+"Delete Rule","حذف القاعدة",module,Magento_CatalogRule
+"Are you sure you want to do this?","هل أنت متأكد أنك تريد أن تفعل هذا؟",module,Magento_CatalogRule
+Reset,إعادة تعيين,module,Magento_CatalogRule
+"Save and Apply","حفظ وتطبيق",module,Magento_CatalogRule
+"Save and Continue Edit","حفظ ومتابعة التعديل",module,Magento_CatalogRule
+Save,حفظ,module,Magento_CatalogRule
+"Catalog Price Rule","قاعدة كتالوج الأسعار",module,Magento_CatalogRule
+"Add New Rule","إضافة قاعدة جديدة",module,Magento_CatalogRule
+"Apply Rules","تطبيق القاعدة",module,Magento_CatalogRule
+Conditions,حالات,module,Magento_CatalogRule
 "Conditions (don't add conditions if rule is applied to all products)","Conditions (don't add conditions if rule is applied to all products)",module,Magento_CatalogRule
 ID,ID,module,Magento_CatalogRule
-Type,Type,module,Magento_CatalogRule
+Type,نوع,module,Magento_CatalogRule
 "Attribute Set","Attribute Set",module,Magento_CatalogRule
 SKU,SKU,module,Magento_CatalogRule
-Product,Product,module,Magento_CatalogRule
-Promotions,Promotions,module,Magento_CatalogRule
+Product,منتج,module,Magento_CatalogRule
+Promotions,الترقيات,module,Magento_CatalogRule
 "We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.","We found updated rules that are not applied. Please click ""Apply Rules"" to update your catalog.",module,Magento_CatalogRule
 "We can't apply the rules.","We can't apply the rules.",module,Magento_CatalogRule
 "You deleted the rule.","You deleted the rule.",module,Magento_CatalogRule
@@ -884,40 +884,40 @@ Promo,Promo,module,Magento_CatalogRule
 "Product Attribute","Product Attribute",module,Magento_CatalogRule
 "Updated rules applied.","Updated rules applied.",module,Magento_CatalogRule
 "You disabled %1 Catalog Price Rules based on ""%2"" attribute.","You disabled %1 Catalog Price Rules based on ""%2"" attribute.",module,Magento_CatalogRule
-Home,Home,module,Magento_CatalogSearch
-"Go to Home Page","Go to Home Page",module,Magento_CatalogSearch
-"Catalog Advanced Search","Catalog Advanced Search",module,Magento_CatalogSearch
-All,All,module,Magento_CatalogSearch
-Yes,Yes,module,Magento_CatalogSearch
-No,No,module,Magento_CatalogSearch
-Results,Results,module,Magento_CatalogSearch
-Grid,Grid,module,Magento_CatalogSearch
-List,List,module,Magento_CatalogSearch
-"Search Weight","Search Weight",module,Magento_CatalogSearch
-Relevance,Relevance,module,Magento_CatalogSearch
-"Search results for: '%1'","Search results for: '%1'",module,Magento_CatalogSearch
-"Minimum Search query length is %1","Minimum Search query length is %1",module,Magento_CatalogSearch
-"Please specify at least one search term.","Please specify at least one search term.",module,Magento_CatalogSearch
-"%1 and greater","%1 and greater",module,Magento_CatalogSearch
-"up to %1","up to %1",module,Magento_CatalogSearch
-Category,Category,module,Magento_CatalogSearch
-"%1 and above","%1 and above",module,Magento_CatalogSearch
+Home,الصفحة الرئيسية,module,Magento_CatalogSearch
+"Go to Home Page","الذهاب الى الصفحة الرئيسية",module,Magento_CatalogSearch
+"Catalog Advanced Search","بحث متقدم فى الكتالوج",module,Magento_CatalogSearch
+All,كل,module,Magento_CatalogSearch
+Yes,نعم,module,Magento_CatalogSearch
+No,لا,module,Magento_CatalogSearch
+Results,النتائج,module,Magento_CatalogSearch
+Grid,شبكة,module,Magento_CatalogSearch
+List,قائمة,module,Magento_CatalogSearch
+"Search Weight","بحث الوزن",module,Magento_CatalogSearch
+Relevance,ملاءمة,module,Magento_CatalogSearch
+"Search results for: '%1'","نتائج البحث عن: '%1'",module,Magento_CatalogSearch
+"Minimum Search query length is %1","الحد الأدنى لطول استعلام البحث هو %1",module,Magento_CatalogSearch
+"Please specify at least one search term.","يرجى تحديد مصطلح بحث واحد على الأقل.",module,Magento_CatalogSearch
+"%1 and greater","%1 وأكثر",module,Magento_CatalogSearch
+"up to %1","يصل الى %1",module,Magento_CatalogSearch
+Category,فئة,module,Magento_CatalogSearch
+"%1 and above","%1 وأعلى",module,Magento_CatalogSearch
 "%1 - %2","%1 - %2",module,Magento_CatalogSearch
-"Sorry, something went wrong. You can find out more in the error log.","Sorry, something went wrong. You can find out more in the error log.",module,Magento_CatalogSearch
-"Bucket does not exist","Bucket does not exist",module,Magento_CatalogSearch
-Product,Product,module,Magento_CatalogSearch
-"Search Settings","Search Settings",module,Magento_CatalogSearch
-Search,Search,module,Magento_CatalogSearch
-"Advanced Search","Advanced Search",module,Magento_CatalogSearch
-"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 item</strong> were found using the following search criteria",module,Magento_CatalogSearch
-"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 items</strong> were found using the following search criteria",module,Magento_CatalogSearch
-"We can't find any items matching these search criteria.","We can't find any items matching these search criteria.",module,Magento_CatalogSearch
-"Modify your search.","Modify your search.",module,Magento_CatalogSearch
-name,name,module,Magento_CatalogSearch
-"Don't see what you're looking for?","Don't see what you're looking for?",module,Magento_CatalogSearch
-"Your search returned no results.","Your search returned no results.",module,Magento_CatalogSearch
-"Create Permanent Redirect for old URL","Create Permanent Redirect for old URL",module,Magento_CatalogUrlRewrite
-"Conditions Combination","Conditions Combination",module,Magento_CatalogWidget
+"Sorry, something went wrong. You can find out more in the error log.","عذرا، حدث خطأ. يمكنك العثور على مزيد من المعلومات في سجل خطأ.",module,Magento_CatalogSearch
+"Bucket does not exist","الدلو ليس موجودا",module,Magento_CatalogSearch
+Product,منتج,module,Magento_CatalogSearch
+"Search Settings","إعدادات البحث",module,Magento_CatalogSearch
+Search,بحث,module,Magento_CatalogSearch
+"Advanced Search","بحث متطور",module,Magento_CatalogSearch
+"<strong>%1 item</strong> were found using the following search criteria","<strong>%1 بند</strong> تم العثور على استخدام معايير البحث التالية",module,Magento_CatalogSearch
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 بند</strong> تم العثور على استخدام معايير البحث التالية",",module,Magento_CatalogSearch
+"We can't find any items matching these search criteria.","لا يمكن العثور على أي مواد مطابقة هذه المعايير البحث.",module,Magento_CatalogSearch
+"Modify your search.","تعديل بحثك",module,Magento_CatalogSearch
+name,اسم,module,Magento_CatalogSearch
+"Don't see what you're looking for?","لا ترى ما كنت تبحث عنه؟",module,Magento_CatalogSearch
+"Your search returned no results.","لم يسفر بحثك على نتائج",module,Magento_CatalogSearch
+"Create Permanent Redirect for old URL","إنشاء إعادة توجيه الدائم لURL القديم",module,Magento_CatalogUrlRewrite
+"Conditions Combination","شروط الجمع",module,Magento_CatalogWidget
 "Product Attribute","Product Attribute",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
 "Please choose a condition to add.","Please choose a condition to add.",module,Magento_CatalogWidget
