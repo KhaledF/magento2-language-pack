@@ -918,58 +918,58 @@ name,اسم,module,Magento_CatalogSearch
 "Your search returned no results.","لم يسفر بحثك على نتائج",module,Magento_CatalogSearch
 "Create Permanent Redirect for old URL","إنشاء إعادة توجيه الدائم لURL القديم",module,Magento_CatalogUrlRewrite
 "Conditions Combination","شروط الجمع",module,Magento_CatalogWidget
-"Product Attribute","Product Attribute",module,Magento_CatalogWidget
+"Product Attribute","خواص المنتج",module,Magento_CatalogWidget
 SKU,SKU,module,Magento_CatalogWidget
-"Please choose a condition to add.","Please choose a condition to add.",module,Magento_CatalogWidget
-"Add to Cart","Add to Cart",module,Magento_CatalogWidget
-"In stock","In stock",module,Magento_CatalogWidget
-"Out of stock","Out of stock",module,Magento_CatalogWidget
-"Add to Wish List","Add to Wish List",module,Magento_CatalogWidget
-"Add to Compare","Add to Compare",module,Magento_CatalogWidget
-Root,Root,module,Magento_Catalog
-Delete,Delete,module,Magento_Catalog
-Save,Save,module,Magento_Catalog
-"Use Config Settings","Use Config Settings",module,Magento_Catalog
-"Use All Available Attributes","Use All Available Attributes",module,Magento_Catalog
+"Please choose a condition to add.","برجاء اختيار حالة لاضافتها",module,Magento_CatalogWidget
+"Add to Cart","إضافة الى السلة",module,Magento_CatalogWidget
+"In stock","في المخزون",module,Magento_CatalogWidget
+"Out of stock","نفذت من المخزون",module,Magento_CatalogWidget
+"Add to Wish List","اضف الى قائمة الامنيات",module,Magento_CatalogWidget
+"Add to Compare","اضف للمقارنة",module,Magento_CatalogWidget
+Root,جذر,module,Magento_Catalog
+Delete,حذف,module,Magento_Catalog
+Save,حفظ,module,Magento_Catalog
+"Use Config Settings","استخدام إعدادات التكوين",module,Magento_Catalog
+"Use All Available Attributes","استخدام جميع السمات المتاحة",module,Magento_Catalog
 ID,ID,module,Magento_Catalog
-Name,Name,module,Magento_Catalog
+Name,اسم,module,Magento_Catalog
 SKU,SKU,module,Magento_Catalog
-Price,Price,module,Magento_Catalog
-Position,Position,module,Magento_Catalog
-"Add Subcategory","Add Subcategory",module,Magento_Catalog
-"Add Root Category","Add Root Category",module,Magento_Catalog
-Day,Day,module,Magento_Catalog
-Month,Month,module,Magento_Catalog
-Year,Year,module,Magento_Catalog
-"<label class=""label""><span>from</span></label>","<label class=""label""><span>from</span></label>",module,Magento_Catalog
-"<label class=""label""><span>to</span></label>","<label class=""label""><span>to</span></label>",module,Magento_Catalog
+Price,سعر,module,Magento_Catalog
+Position,موضع,module,Magento_Catalog
+"Add Subcategory","إضافة الفرعي",module,Magento_Catalog
+"Add Root Category","الفئة الرئيسية",module,Magento_Catalog
+Day,يوم,module,Magento_Catalog
+Month,شهر,module,Magento_Catalog
+Year,سنة,module,Magento_Catalog
+"<label class=""label""><span>from</span></label>","<label class=""label""><span>من</span></label>",module,Magento_Catalog
+"<label class=""label""><span>to</span></label>","<label class=""label""><span>الى</span></label>",module,Magento_Catalog
 [GLOBAL],[GLOBAL],module,Magento_Catalog
 [WEBSITE],[WEBSITE],module,Magento_Catalog
 "[STORE VIEW]","[STORE VIEW]",module,Magento_Catalog
 "WYSIWYG Editor","WYSIWYG Editor",module,Magento_Catalog
-"Add Product","Add Product",module,Magento_Catalog
-label,label,module,Magento_Catalog
-"Product Attributes","Product Attributes",module,Magento_Catalog
-"Add New Attribute","Add New Attribute",module,Magento_Catalog
-Cancel,Cancel,module,Magento_Catalog
-"Save Attribute","Save Attribute",module,Magento_Catalog
-"Save in New Attribute Set","Save in New Attribute Set",module,Magento_Catalog
-"Enter Name for New Attribute Set","Enter Name for New Attribute Set",module,Magento_Catalog
-"Save and Continue Edit","Save and Continue Edit",module,Magento_Catalog
-"Delete Attribute","Delete Attribute",module,Magento_Catalog
-"Edit Product Attribute ""%1""","Edit Product Attribute ""%1""",module,Magento_Catalog
-"New Product Attribute","New Product Attribute",module,Magento_Catalog
-"Advanced Attribute Properties","Advanced Attribute Properties",module,Magento_Catalog
-"Attribute Code","Attribute Code",module,Magento_Catalog
-"This is used internally. Make sure you don't use spaces or more than %1 symbols.","This is used internally. Make sure you don't use spaces or more than %1 symbols.",module,Magento_Catalog
-"Default Value","Default Value",module,Magento_Catalog
-"Unique Value","Unique Value",module,Magento_Catalog
+"Add Product","إضافة منتج",module,Magento_Catalog
+label,ملصق,module,Magento_Catalog
+"Product Attributes","صفات المنتج",module,Magento_Catalog
+"Add New Attribute","إضافة صفة جديدة",module,Magento_Catalog
+Cancel,إلغاء,module,Magento_Catalog
+"Save Attribute","حفظ السمة",module,Magento_Catalog
+"Save in New Attribute Set","حفظ في تعيين سمة جديدة",module,Magento_Catalog
+"Enter Name for New Attribute Set","أدخل الاسم لتعيين سمة جديدة",module,Magento_Catalog
+"Save and Continue Edit","حفظ ومتابعة التعديل",module,Magento_Catalog
+"Delete Attribute","مسح السمة",module,Magento_Catalog
+"Edit Product Attribute ""%1""","تعديل سمة المنتج ""%1""",module,Magento_Catalog
+"New Product Attribute","سمة منتج جديدة",module,Magento_Catalog
+"Advanced Attribute Properties","خصائص السمة المتقدمة",module,Magento_Catalog
+"Attribute Code","كود السمة",module,Magento_Catalog
+"This is used internally. Make sure you don't use spaces or more than %1 symbols.","يستخدم هذا داخليا, تأكد من عدم استخدام مسافات أو أكثر من %1 حرف",module,Magento_Catalog
+"Default Value","القيمة الإفتراضية",module,Magento_Catalog
+"Unique Value","القيمة الفريدة",module,Magento_Catalog
 "Unique Value (not shared with other products)","Unique Value (not shared with other products)",module,Magento_Catalog
-"Not shared with other products.","Not shared with other products.",module,Magento_Catalog
-"Input Validation for Store Owner","Input Validation for Store Owner",module,Magento_Catalog
-"Add to Column Options","Add to Column Options",module,Magento_Catalog
+"Not shared with other products.","غير مشتركة مع غيرها من المنتجات",module,Magento_Catalog
+"Input Validation for Store Owner","التحقق من صحة المدخلات لصاحب المحل",module,Magento_Catalog
+"Add to Column Options","إضافة إلى خيارات العمود",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid.",module,Magento_Catalog
-"Use in Filter Options","Use in Filter Options",module,Magento_Catalog
+"Use in Filter Options","استخدام في خيارت",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
 "Store View","Store View",module,Magento_Catalog
 Website,Website,module,Magento_Catalog
