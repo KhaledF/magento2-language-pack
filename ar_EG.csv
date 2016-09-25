@@ -818,8 +818,8 @@ Always,دائما,module,Magento_Captcha
 "Please correct the quantity for some products.","برجاء تصحيح الكمية لبض المنتجات",module,Magento_CatalogInventory
 "The most you may purchase is %1.","أكثر ما يمكن شراءه هو %1",module,Magento_CatalogInventory
 "We don't have as many ""%1"" as you requested.","ليس لدينا عدد ""%1"" كما طلبت",module,Magento_CatalogInventory
-"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","ليس لدينا عدد ""%1"" كما طلبت", ولكن سوف نسترجع %2 المتبقي",module,Magento_CatalogInventory
-"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","ليس لدينا عدد ""%1"" كما طلبت", لذلك سوف نسترجع %2 المتبقي",m",module,Magento_CatalogInventory
+"We don't have as many ""%1"" as you requested, but we'll back order the remaining %2.","ليس لدينا عدد ""%1"" كما طلبت, ولكن سوف نسترجع %2 المتبقي",module,Magento_CatalogInventory
+"We don't have ""%1"" in the requested quantity, so we'll back order the remaining %2.","ليس لدينا عدد ""%1"" كما طلبت, لذلك سوف نسترجع %2 المتبقي",m",module,Magento_CatalogInventory
 "You can buy %1 only in quantities of %2 at a time.","You can buy %1 only in quantities of %2 at a time.",module,Magento_CatalogInventory
 "You can buy this product only in quantities of %1 at a time.","يمكنك شراء هذا المنتج فقط في كميات من %1 في وقت واحد.",module,Magento_CatalogInventory
 "Decimal qty increments is not allowed.","لا يسمح بزيادة الكمية العشرية.",module,Magento_CatalogInventory
@@ -910,7 +910,7 @@ Product,منتج,module,Magento_CatalogSearch
 Search,بحث,module,Magento_CatalogSearch
 "Advanced Search","بحث متطور",module,Magento_CatalogSearch
 "<strong>%1 item</strong> were found using the following search criteria","<strong>%1 بند</strong> تم العثور على استخدام معايير البحث التالية",module,Magento_CatalogSearch
-"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 بند</strong> تم العثور على استخدام معايير البحث التالية",",module,Magento_CatalogSearch
+"<strong>%1 items</strong> were found using the following search criteria","<strong>%1 بند</strong> تم العثور على استخدام معايير البحث التالية",module,Magento_CatalogSearch
 "We can't find any items matching these search criteria.","لا يمكن العثور على أي مواد مطابقة هذه المعايير البحث.",module,Magento_CatalogSearch
 "Modify your search.","تعديل بحثك",module,Magento_CatalogSearch
 name,اسم,module,Magento_CatalogSearch
