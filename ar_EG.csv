@@ -970,119 +970,119 @@ Cancel,إلغاء,module,Magento_Catalog
 "Add to Column Options","إضافة إلى خيارات العمود",module,Magento_Catalog
 "Select ""Yes"" to add this attribute to the list of column options in the product grid.","Select ""Yes"" to add this attribute to the list of column options in the product grid.",module,Magento_Catalog
 "Use in Filter Options","استخدام في خيارت",module,Magento_Catalog
-"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","Select ""Yes"" to add this attribute to the list of filter options in the product grid.",module,Magento_Catalog
+"Select ""Yes"" to add this attribute to the list of filter options in the product grid.","حدد "" نعم "" لإضافة هذه السمة إلى قائمة خيارات التصفية في الشبكة المنتج.",module,Magento_Catalog
 "Store View","Store View",module,Magento_Catalog
-Website,Website,module,Magento_Catalog
-Global,Global,module,Magento_Catalog
-Scope,Scope,module,Magento_Catalog
-"Declare attribute value saving scope.","Declare attribute value saving scope.",module,Magento_Catalog
-"Storefront Properties","Storefront Properties",module,Magento_Catalog
-"Use in Search","Use in Search",module,Magento_Catalog
-"Visible in Advanced Search","Visible in Advanced Search",module,Magento_Catalog
-"Comparable on Storefront","Comparable on Storefront",module,Magento_Catalog
-"Use for Promo Rule Conditions","Use for Promo Rule Conditions",module,Magento_Catalog
+Website,موقع الكتروني,module,Magento_Catalog
+Global,عالمي,module,Magento_Catalog
+Scope,نطاق,module,Magento_Catalog
+"Declare attribute value saving scope.","توضيح قيمة السمة توفر النطاق",module,Magento_Catalog
+"Storefront Properties","صفات واجهة المتجر",module,Magento_Catalog
+"Use in Search","استخدام في البحث",module,Magento_Catalog
+"Visible in Advanced Search","مرئي في البحث المتطور",module,Magento_Catalog
+"Comparable on Storefront","مقارنة على واجهة المتجر",module,Magento_Catalog
+"Use for Promo Rule Conditions","استخدام لبرومو شروط القاعدة",module,Magento_Catalog
 "Enable WYSIWYG","Enable WYSIWYG",module,Magento_Catalog
 "Allow HTML Tags on Storefront","Allow HTML Tags on Storefront",module,Magento_Catalog
-"Visible on Catalog Pages on Storefront","Visible on Catalog Pages on Storefront",module,Magento_Catalog
-"Used in Product Listing","Used in Product Listing",module,Magento_Catalog
-"Depends on design theme.","Depends on design theme.",module,Magento_Catalog
-"Used for Sorting in Product Listing","Used for Sorting in Product Listing",module,Magento_Catalog
-"Media Image","Media Image",module,Magento_Catalog
-Gallery,Gallery,module,Magento_Catalog
-"System Properties","System Properties",module,Magento_Catalog
-No,No,module,Magento_Catalog
-Yes,Yes,module,Magento_Catalog
-"Data Type for Saving in Database","Data Type for Saving in Database",module,Magento_Catalog
-Text,Text,module,Magento_Catalog
+"Visible on Catalog Pages on Storefront","مرئية على صفحات الكتالوج على واجهة المتجر",module,Magento_Catalog
+"Used in Product Listing","المستخدمة في قائمة المنتجات",module,Magento_Catalog
+"Depends on design theme.","يعتمد على موضوع التصميم.",module,Magento_Catalog
+"Used for Sorting in Product Listing","تستخدم للترتيب في قائمة المنتجات",module,Magento_Catalog
+"Media Image","صورةاعلانية",module,Magento_Catalog
+Gallery,استوديو,module,Magento_Catalog
+"System Properties","خواص النظام",module,Magento_Catalog
+No,لا,module,Magento_Catalog
+Yes,نعم,module,Magento_Catalog
+"Data Type for Saving in Database","نوع البيانات للحفظ في قاعدة البيانات",module,Magento_Catalog
+Text,نص,module,Magento_Catalog
 Varchar,Varchar,module,Magento_Catalog
 Static,Static,module,Magento_Catalog
 Datetime,Datetime,module,Magento_Catalog
 Decimal,Decimal,module,Magento_Catalog
 Integer,Integer,module,Magento_Catalog
 "Globally Editable","Globally Editable",module,Magento_Catalog
-"Attribute Information","Attribute Information",module,Magento_Catalog
-Properties,Properties,module,Magento_Catalog
+"Attribute Information","معلومات السمة",module,Magento_Catalog
+Properties,خواص,module,Magento_Catalog
 "Manage Labels","Manage Labels",module,Magento_Catalog
-Visible,Visible,module,Magento_Catalog
-"Web Site","Web Site",module,Magento_Catalog
-Searchable,Searchable,module,Magento_Catalog
-Comparable,Comparable,module,Magento_Catalog
-"Delete Selected Group","Delete Selected Group",module,Magento_Catalog
-"Add New","Add New",module,Magento_Catalog
-Back,Back,module,Magento_Catalog
-Reset,Reset,module,Magento_Catalog
-"You are about to delete all products in this attribute set. Are you sure you want to do that?","You are about to delete all products in this attribute set. Are you sure you want to do that?",module,Magento_Catalog
-"New Set Name","New Set Name",module,Magento_Catalog
-"Edit Attribute Set '%1'","Edit Attribute Set '%1'",module,Magento_Catalog
-Empty,Empty,module,Magento_Catalog
-"Add Attribute","Add Attribute",module,Magento_Catalog
-"Add New Group","Add New Group",module,Magento_Catalog
-"Add Group","Add Group",module,Magento_Catalog
-"Edit Attribute Set Name","Edit Attribute Set Name",module,Magento_Catalog
-"For internal use","For internal use",module,Magento_Catalog
-"Based On","Based On",module,Magento_Catalog
-"Add New Attribute Set","Add New Attribute Set",module,Magento_Catalog
-"Add Attribute Set","Add Attribute Set",module,Magento_Catalog
-"Attribute Sets","Attribute Sets",module,Magento_Catalog
-"Close Window","Close Window",module,Magento_Catalog
-"New Product","New Product",module,Magento_Catalog
-"Save & Edit","Save & Edit",module,Magento_Catalog
-"Save & New","Save & New",module,Magento_Catalog
-"Save & Duplicate","Save & Duplicate",module,Magento_Catalog
-"Save & Close","Save & Close",module,Magento_Catalog
-Attributes,Attributes,module,Magento_Catalog
-Change,Change,module,Magento_Catalog
-"Advanced Inventory","Advanced Inventory",module,Magento_Catalog
-Websites,Websites,module,Magento_Catalog
-"Products Information","Products Information",module,Magento_Catalog
-"Create Category","Create Category",module,Magento_Catalog
-"Category Name","Category Name",module,Magento_Catalog
-"Parent Category","Parent Category",module,Magento_Catalog
+Visible,مرئي,module,Magento_Catalog
+"Web Site","موقع الكتروني",module,Magento_Catalog
+Searchable,قابل للبحث,module,Magento_Catalog
+Comparable,قابل للمقارنة,module,Magento_Catalog
+"Delete Selected Group","حذف المجموعة المحددة",module,Magento_Catalog
+"Add New","إضافة جديد",module,Magento_Catalog
+Back,خلف,module,Magento_Catalog
+Reset,إعادة تعيين,module,Magento_Catalog
+"You are about to delete all products in this attribute set. Are you sure you want to do that?","أنت على وشك حذف جميع المنتجات في هذه السمة المحددة. هل أنت متأكد أنك تريد أن تفعل ذلك؟",module,Magento_Catalog
+"New Set Name","اسم مجموعة جديد",module,Magento_Catalog
+"Edit Attribute Set '%1'","تعديل مجموعة الصفات '%1'",module,Magento_Catalog
+Empty,فارغ,module,Magento_Catalog
+"Add Attribute","إضافة سمة",module,Magento_Catalog
+"Add New Group","إضافة مجموعة جديدة",module,Magento_Catalog
+"Add Group","إضافة مجموعة",module,Magento_Catalog
+"Edit Attribute Set Name","تعديل اسم مجموعة الصفات ",module,Magento_Catalog
+"For internal use","للاستخدام الداخلي",module,Magento_Catalog
+"Based On","مبني على",module,Magento_Catalog
+"Add New Attribute Set","إضافة مجموعة صفات جديدة",module,Magento_Catalog
+"Add Attribute Set","إضافة مجموعة صفات",module,Magento_Catalog
+"Attribute Sets","مجموعات الصفات",module,Magento_Catalog
+"Close Window","غلق النافذة",module,Magento_Catalog
+"New Product","منتج جديد",module,Magento_Catalog
+"Save & Edit","حفظ وتعديل",module,Magento_Catalog
+"Save & New","حفظ وإضافة جديد",module,Magento_Catalog
+"Save & Duplicate","حفظ وتكرير ",module,Magento_Catalog
+"Save & Close","حفظ وغلق",module,Magento_Catalog
+Attributes,خواص,module,Magento_Catalog
+Change,تغيير,module,Magento_Catalog
+"Advanced Inventory","مخزون متطور",module,Magento_Catalog
+Websites,مواقع الكترونية,module,Magento_Catalog
+"Products Information","معلومات المنتجات",module,Magento_Catalog
+"Create Category","إنشاء الفئة",module,Magento_Catalog
+"Category Name","اسم الفئة",module,Magento_Catalog
+"Parent Category","الفئة الأم",module,Magento_Catalog
 "If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.","If there are no custom parent categories, please use the default parent category. You can reassign the category at any time in <a href=""%1"" target=""_blank"">Products > Categories</a>.",module,Magento_Catalog
-"Price Alert Subscriptions","Price Alert Subscriptions",module,Magento_Catalog
-"Stock Alert Subscriptions","Stock Alert Subscriptions",module,Magento_Catalog
-"There are no customers for this alert.","There are no customers for this alert.",module,Magento_Catalog
-"First Name","First Name",module,Magento_Catalog
-"Last Name","Last Name",module,Magento_Catalog
-Email,Email,module,Magento_Catalog
-"Subscribe Date","Subscribe Date",module,Magento_Catalog
-"Last Notified","Last Notified",module,Magento_Catalog
-"Send Count","Send Count",module,Magento_Catalog
-"New Attribute","New Attribute",module,Magento_Catalog
-Type,Type,module,Magento_Catalog
-"Attribute Set","Attribute Set",module,Magento_Catalog
-Status,Status,module,Magento_Catalog
-Visibility,Visibility,module,Magento_Catalog
-"Add New Option","Add New Option",module,Magento_Catalog
-"Import Options","Import Options",module,Magento_Catalog
-"Use Default","Use Default",module,Magento_Catalog
-Import,Import,module,Magento_Catalog
-"Add New Row","Add New Row",module,Magento_Catalog
-"Delete Row","Delete Row",module,Magento_Catalog
-"Tier Pricing","Tier Pricing",module,Magento_Catalog
-"Default Price","Default Price",module,Magento_Catalog
-"All Websites","All Websites",module,Magento_Catalog
-"ALL GROUPS","ALL GROUPS",module,Magento_Catalog
-"Add Price","Add Price",module,Magento_Catalog
-"Default Values","Default Values",module,Magento_Catalog
-"Related Products","Related Products",module,Magento_Catalog
+"Price Alert Subscriptions","اشتراكات تنبيه السعر",module,Magento_Catalog
+"Stock Alert Subscriptions","اشتراكات تنبيه المخزون",module,Magento_Catalog
+"There are no customers for this alert.","لا يوجد عملاء لهذا التنبيه",module,Magento_Catalog
+"First Name","الاسم الأول",module,Magento_Catalog
+"Last Name","الاسم الأخير",module,Magento_Catalog
+Email,البريد الألكتروني,module,Magento_Catalog
+"Subscribe Date","تاريخ الاشتراك",module,Magento_Catalog
+"Last Notified","اخر تنبيه",module,Magento_Catalog
+"Send Count","إرسال العدد",module,Magento_Catalog
+"New Attribute","سمة جديدة",module,Magento_Catalog
+Type,نوع,module,Magento_Catalog
+"Attribute Set","مجموعة الصفات",module,Magento_Catalog
+Status,حالة,module,Magento_Catalog
+Visibility,الرؤية,module,Magento_Catalog
+"Add New Option","إضافة خيار جديدة",module,Magento_Catalog
+"Import Options","خيارات الاستيراد",module,Magento_Catalog
+"Use Default","استخدام الإفتراضي",module,Magento_Catalog
+Import,إستيراد,module,Magento_Catalog
+"Add New Row","إضافة صف جديد",module,Magento_Catalog
+"Delete Row","حذف الصف",module,Magento_Catalog
+"Tier Pricing","طبقة التسعير",module,Magento_Catalog
+"Default Price","السعر الإفتراضي",module,Magento_Catalog
+"All Websites","جميع المواقع الافتراضية",module,Magento_Catalog
+"ALL GROUPS","جميع المجموعات",module,Magento_Catalog
+"Add Price","إضافة سعر",module,Magento_Catalog
+"Default Values","القيمة الإفتراضية",module,Magento_Catalog
+"Related Products","منتجات لها علاقة",module,Magento_Catalog
 Up-sells,Up-sells,module,Magento_Catalog
 Cross-sells,Cross-sells,module,Magento_Catalog
-"Size for %1","Size for %1",module,Magento_Catalog
-"Watermark File for %1","Watermark File for %1",module,Magento_Catalog
-"Position of Watermark for %1","Position of Watermark for %1",module,Magento_Catalog
-"Name in %1","Name in %1",module,Magento_Catalog
-Quantity,Quantity,module,Magento_Catalog
-Edit,Edit,module,Magento_Catalog
-"Are you sure?","Are you sure?",module,Magento_Catalog
-"Change Status","Change Status",module,Magento_Catalog
-"Update Attributes","Update Attributes",module,Magento_Catalog
-"start typing to search category","start typing to search category",module,Magento_Catalog
-"New Category","New Category",module,Magento_Catalog
+"Size for %1","حجم %1",module,Magento_Catalog
+"Watermark File for %1","ملف العلامة المائية ل %1",module,Magento_Catalog
+"Position of Watermark for %1","موقع العلامة المائية ل %1",module,Magento_Catalog
+"Name in %1","اسم في %1",module,Magento_Catalog
+Quantity,كمية,module,Magento_Catalog
+Edit,تعديل,module,Magento_Catalog
+"Are you sure?","هل أنت متأكد؟",module,Magento_Catalog
+"Change Status","تغيير الحالة",module,Magento_Catalog
+"Update Attributes","تحديث السمات",module,Magento_Catalog
+"start typing to search category","ابدأ الكتابة لبحث الفئة",module,Magento_Catalog
+"New Category","فئة جديدة",module,Magento_Catalog
 "Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)",module,Magento_Catalog
-"Add New Images","Add New Images",module,Magento_Catalog
+"Add New Images","إضافة صور جديدة",module,Magento_Catalog
 "Inc. Tax","Inc. Tax",module,Magento_Catalog
-"Does this have a weight?","Does this have a weight?",module,Magento_Catalog
+"Does this have a weight?","هل يوجد وزن؟",module,Magento_Catalog
 Product,Product,module,Magento_Catalog
 "Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
 "Low Stock Products","Low Stock Products",module,Magento_Catalog
