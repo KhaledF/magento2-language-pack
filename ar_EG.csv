@@ -1143,39 +1143,39 @@ Catalog,كاتالوج,module,Magento_Catalog
 Products,منتجات,module,Magento_Catalog
 "A group with the same name already exists.","مجموعة بنفس الاسم موجودة بالفعل",module,Magento_Catalog
 "Something went wrong while saving this group.","حدث خطأ ما اثناء حفظ المجموعة.",module,Magento_Catalog
-"A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
-"A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
-"Unable to save product","Unable to save product",module,Magento_Catalog
-"You saved the product.","You saved the product.",module,Magento_Catalog
-"SKU for product %1 has been changed to %2.","SKU for product %1 has been changed to %2.",module,Magento_Catalog
-"The image cannot be removed as it has been assigned to the other image role","The image cannot be removed as it has been assigned to the other image role",module,Magento_Catalog
-"New Attribute Set","New Attribute Set",module,Magento_Catalog
-"The attribute set has been removed.","The attribute set has been removed.",module,Magento_Catalog
-"We can't delete this set right now.","We can't delete this set right now.",module,Magento_Catalog
-"New Set","New Set",module,Magento_Catalog
-"Manage Product Sets","Manage Product Sets",module,Magento_Catalog
-"Manage Attribute Sets","Manage Attribute Sets",module,Magento_Catalog
-"This attribute set no longer exists.","This attribute set no longer exists.",module,Magento_Catalog
-"You saved the attribute set.","You saved the attribute set.",module,Magento_Catalog
-"Something went wrong while saving the attribute set.","Something went wrong while saving the attribute set.",module,Magento_Catalog
-"You added product %1 to the comparison list.","You added product %1 to the comparison list.",module,Magento_Catalog
-"You cleared the comparison list.","You cleared the comparison list.",module,Magento_Catalog
-"Something went wrong  clearing the comparison list.","Something went wrong  clearing the comparison list.",module,Magento_Catalog
-"You removed product %1 from the comparison list.","You removed product %1 from the comparison list.",module,Magento_Catalog
-"1 item","1 item",module,Magento_Catalog
-"%1 items","%1 items",module,Magento_Catalog
-"Invalid attribute %1","Invalid attribute %1",module,Magento_Catalog
-Grid,Grid,module,Magento_Catalog
-List,List,module,Magento_Catalog
-All,All,module,Magento_Catalog
-"Bad controller interface for showing product","Bad controller interface for showing product",module,Magento_Catalog
-"Product is not loaded","Product is not loaded",module,Magento_Catalog
-"Make sure the To Date is later than or the same as the From Date.","Make sure the To Date is later than or the same as the From Date.",module,Magento_Catalog
-"Sorry, but we can't find the new parent category you selected.","Sorry, but we can't find the new parent category you selected.",module,Magento_Catalog
-"Sorry, but we can't find the new category you selected.","Sorry, but we can't find the new category you selected.",module,Magento_Catalog
-"We can't move the category because the parent category name matches the child category name.","We can't move the category because the parent category name matches the child category name.",module,Magento_Catalog
-"Something went wrong while getting the image url.","Something went wrong while getting the image url.",module,Magento_Catalog
+"A total of %1 record(s) have been deleted.","مجموع %1 من التسجيلات قد تم حذفها.",module,Magento_Catalog
+"A total of %1 record(s) have been updated.","مجموع %1 من التسجيلات قد تم تحديثها.",module,Magento_Catalog
+"Something went wrong while updating the product(s) status.","حدث خطأ ما أثناء تحديث حالة المنتجات.",module,Magento_Catalog
+"Unable to save product","غير قابل على حفظ المنتج",module,Magento_Catalog
+"You saved the product.","لقد حفظت المنتج.",module,Magento_Catalog
+"SKU for product %1 has been changed to %2.","SKU للمنتج %1 تم تغييره ل %2",module,Magento_Catalog
+"The image cannot be removed as it has been assigned to the other image role","لا يمكن إزالة الصورة لأنه تم تعيينها إلى دور صورة أخرى",module,Magento_Catalog
+"New Attribute Set","مجموعة سمات جديدة",module,Magento_Catalog
+"The attribute set has been removed.","مجموعة السمات تم مسحها.",module,Magento_Catalog
+"We can't delete this set right now.","لا نستطيع حذف هذه المجموعة فى الوقت الحالي.",module,Magento_Catalog
+"New Set","مجموعة جديدة",module,Magento_Catalog
+"Manage Product Sets","إدارة مجموعات المنتج",module,Magento_Catalog
+"Manage Attribute Sets","إدارة مجموعات السمة",module,Magento_Catalog
+"This attribute set no longer exists.","مجموعة السمة هذه لم تعد موجودة",module,Magento_Catalog
+"You saved the attribute set.","لقد حفظت مجموعة السمات",module,Magento_Catalog
+"Something went wrong while saving the attribute set.","حدث خطأ ما اثناء حفظ مجموعة السمات.",module,Magento_Catalog
+"You added product %1 to the comparison list.","لقد اضفت المنتج %1 الى قائمة المقارنة.",module,Magento_Catalog
+"You cleared the comparison list.","لقد مسحت قائمة المقارنة",module,Magento_Catalog
+"Something went wrong  clearing the comparison list.","حدث خطأ ما اثناء مسح  قائمة المقارنة.",module,Magento_Catalog
+"You removed product %1 from the comparison list.","لقد حدفت المنتج %1 من قائمة المقارنة.",module,Magento_Catalog
+"1 item","بند 1",module,Magento_Catalog
+"%1 items","%1 بنود",module,Magento_Catalog
+"Invalid attribute %1","السمة %1 غير صالحة",module,Magento_Catalog
+Grid,شبكة,module,Magento_Catalog
+List,قائمة,module,Magento_Catalog
+All,الكل,module,Magento_Catalog
+"Bad controller interface for showing product","واجهة تحكم سيئة لعرض المنتج",module,Magento_Catalog
+"Product is not loaded","لم يتم تحميل المنتج",module,Magento_Catalog
+"Make sure the To Date is later than or the same as the From Date.","تأكد من أن (إلى تاريخ) أحدث من أو نفس (من تاريخ).",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","عذرا، لكننا لا يمكن العثور على فئة الأم الجديدة التي حددتها.",module,Magento_Catalog
+"Sorry, but we can't find the new category you selected.","عذرا، لكننا لا يمكن العثور على فئة جديدة قمت بتحديدها.",module,Magento_Catalog
+"We can't move the category because the parent category name matches the child category name.","لا نستطيع أن نحرك الفئة لأن اسم الفئة الأم يطابق اسم الفئة الفرعية.",module,Magento_Catalog
+"Something went wrong while getting the image url.","حدث خطأ ما أثناء الحصول على رابط الصورة.",module,Magento_Catalog
 "Can't delete root category.","Can't delete root category.",module,Magento_Catalog
 "The value of attribute ""%1"" must be unique.","The value of attribute ""%1"" must be unique.",module,Magento_Catalog
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Default Product Listing Sort by does not exist in Available Product Listing Sort By.",module,Magento_Catalog
