@@ -1176,11 +1176,11 @@ All,الكل,module,Magento_Catalog
 "Sorry, but we can't find the new category you selected.","عذرا، لكننا لا يمكن العثور على فئة جديدة قمت بتحديدها.",module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.","لا نستطيع أن نحرك الفئة لأن اسم الفئة الأم يطابق اسم الفئة الفرعية.",module,Magento_Catalog
 "Something went wrong while getting the image url.","حدث خطأ ما أثناء الحصول على رابط الصورة.",module,Magento_Catalog
-"Can't delete root category.","Can't delete root category.",module,Magento_Catalog
-"The value of attribute ""%1"" must be unique.","The value of attribute ""%1"" must be unique.",module,Magento_Catalog
-"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","Default Product Listing Sort by does not exist in Available Product Listing Sort By.",module,Magento_Catalog
-"No layout updates","No layout updates",module,Magento_Catalog
-"Products only","Products only",module,Magento_Catalog
+"Can't delete root category.","لا يمكن حذف الفئة الجذر.",module,Magento_Catalog
+"The value of attribute ""%1"" must be unique.","يجب ان تكون قيمة السمة ""%1"" فريدة من نوعها",module,Magento_Catalog
+"Default Product Listing Sort by does not exist in Available Product Listing Sort By.","الترتيب الإفتراضي للمنتج كقائمة غير متاح في ترتيب القوائم المتاح للمنتج",module,Magento_Catalog
+"No layout updates","لا توجد تحديثات تخطيط",module,Magento_Catalog
+"Products only","فقط المنتجات",module,Magento_Catalog
 "Static block only","Static block only",module,Magento_Catalog
 "Static block and products","Static block and products",module,Magento_Catalog
 "Please select a static block.","Please select a static block.",module,Magento_Catalog
