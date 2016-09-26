@@ -1172,37 +1172,37 @@ All,الكل,module,Magento_Catalog
 "Bad controller interface for showing product","واجهة تحكم سيئة لعرض المنتج",module,Magento_Catalog
 "Product is not loaded","لم يتم تحميل المنتج",module,Magento_Catalog
 "Make sure the To Date is later than or the same as the From Date.","تأكد من أن (إلى تاريخ) أحدث من أو نفس (من تاريخ).",module,Magento_Catalog
-"Sorry, but we can't find the new parent category you selected.","عذرا، لكننا لا يمكن العثور على فئة الأم الجديدة التي حددتها.",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","عذرا، لكننا لا يمكن العثور على الفئة الأم الجديدة التي حددتها.",module,Magento_Catalog
 "Sorry, but we can't find the new category you selected.","عذرا، لكننا لا يمكن العثور على فئة جديدة قمت بتحديدها.",module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.","لا نستطيع أن نحرك الفئة لأن اسم الفئة الأم يطابق اسم الفئة الفرعية.",module,Magento_Catalog
 "Something went wrong while getting the image url.","حدث خطأ ما أثناء الحصول على رابط الصورة.",module,Magento_Catalog
 "Can't delete root category.","لا يمكن حذف الفئة الجذر.",module,Magento_Catalog
 "The value of attribute ""%1"" must be unique.","يجب ان تكون قيمة السمة ""%1"" فريدة من نوعها",module,Magento_Catalog
 "Default Product Listing Sort by does not exist in Available Product Listing Sort By.","الترتيب الإفتراضي للمنتج كقائمة غير متاح في ترتيب القوائم المتاح للمنتج",module,Magento_Catalog
-"No layout updates","لا توجد تحديثات تخطيط",module,Magento_Catalog
+"No layout updates","لا توجد تحديثات للتخطيط",module,Magento_Catalog
 "Products only","فقط المنتجات",module,Magento_Catalog
-"Static block only","Static block only",module,Magento_Catalog
-"Static block and products","Static block and products",module,Magento_Catalog
-"Please select a static block.","Please select a static block.",module,Magento_Catalog
-frontend_label,frontend_label,module,Magento_Catalog
-"Could not save product ""%1"" with position %2 to category %3","Could not save product ""%1"" with position %2 to category %3",module,Magento_Catalog
-"Category does not contain specified product","Category does not contain specified product",module,Magento_Catalog
+"Static block only","كتلة ثابتة فقط",module,Magento_Catalog
+"Static block and products","كتلة ثابتة ومنتجات",module,Magento_Catalog
+"Please select a static block.","برجاء تحديد كتلة ثابتة",module,Magento_Catalog
+frontend_label,تسمية الواجهة,module,Magento_Catalog
+"Could not save product ""%1"" with position %2 to category %3","لا يمكن حفظ المنتج ""%1 "" في المكان %2 إلى الفئة %3 ",module,Magento_Catalog
+"Category does not contain specified product","لا تحتوي الفئة على المنتج المحدد",module,Magento_Catalog
 "Could not save product ""%product"" with position %position to category %category","Could not save product ""%product"" with position %position to category %category",module,Magento_Catalog
-"Operation do not allow to move a parent category to any of children category","Operation do not allow to move a parent category to any of children category",module,Magento_Catalog
-"Could not move category","Could not move category",module,Magento_Catalog
-"Could not save category: %1","Could not save category: %1",module,Magento_Catalog
-"Cannot delete category with id %1","Cannot delete category with id %1",module,Magento_Catalog
-"-- Please Select a Category --","-- Please Select a Category --",module,Magento_Catalog
-"Grid Only","Grid Only",module,Magento_Catalog
-"List Only","List Only",module,Magento_Catalog
+"Operation do not allow to move a parent category to any of children category","العملية لا تسمح بتحريك فئة الأصل إلى أي من الفئة الفرعية",module,Magento_Catalog
+"Could not move category","لا يمكن تحريك الفئة",module,Magento_Catalog
+"Could not save category: %1","لا يمكن حفظ الفئة: %1",module,Magento_Catalog
+"Cannot delete category with id %1","لا يمكن حذف الفئة بالمعرف %1",module,Magento_Catalog
+"-- Please Select a Category --","-- برجاء إختيار فئة --",module,Magento_Catalog
+"Grid Only","شبكة فقط",module,Magento_Catalog
+"List Only","قائمة فقط",module,Magento_Catalog
 "Grid (default) / List","Grid (default) / List",module,Magento_Catalog
 "List (default) / Grid","List (default) / Grid",module,Magento_Catalog
 "Automatic (equalize price ranges)","Automatic (equalize price ranges)",module,Magento_Catalog
 "Automatic (equalize product counts)","Automatic (equalize product counts)",module,Magento_Catalog
 Manual,Manual,module,Magento_Catalog
-Fixed,Fixed,module,Magento_Catalog
-Percent,Percent,module,Magento_Catalog
-"-- Please select --","-- Please select --",module,Magento_Catalog
+Fixed,ثابت,module,Magento_Catalog
+Percent,نسبه مئويه,module,Magento_Catalog
+"-- Please select --","-- برجاء التحديد --",module,Magento_Catalog
 "Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
 "Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
