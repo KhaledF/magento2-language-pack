@@ -1083,66 +1083,66 @@ Edit,تعديل,module,Magento_Catalog
 "Add New Images","إضافة صور جديدة",module,Magento_Catalog
 "Inc. Tax","Inc. Tax",module,Magento_Catalog
 "Does this have a weight?","هل يوجد وزن؟",module,Magento_Catalog
-Product,Product,module,Magento_Catalog
+Product,منتج,module,Magento_Catalog
 "Notify Low Stock RSS","Notify Low Stock RSS",module,Magento_Catalog
-"Low Stock Products","Low Stock Products",module,Magento_Catalog
-"%1 has reached a quantity of %2.","%1 has reached a quantity of %2.",module,Magento_Catalog
-Home,Home,module,Magento_Catalog
-"Go to Home Page","Go to Home Page",module,Magento_Catalog
-"Subscribe to RSS Feed","Subscribe to RSS Feed",module,Magento_Catalog
-"Products Comparison List","Products Comparison List",module,Magento_Catalog
+"Low Stock Products","منتجات منخفضة المخزون",module,Magento_Catalog
+"%1 has reached a quantity of %2.","%1 وصل الى الكمية %2",module,Magento_Catalog
+Home,الرئيسية,module,Magento_Catalog
+"Go to Home Page","الذهاب الى الصفحة الرئيسية",module,Magento_Catalog
+"Subscribe to RSS Feed","اشترك في تغذية RSS",module,Magento_Catalog
+"Products Comparison List","قائمة مقارنة المنتجات",module,Magento_Catalog
 N/A,N/A,module,Magento_Catalog
 AM,AM,module,Magento_Catalog
 PM,PM,module,Magento_Catalog
-"-- Please Select --","-- Please Select --",module,Magento_Catalog
-None,None,module,Magento_Catalog
-"New Products from %1","New Products from %1",module,Magento_Catalog
-"New Products","New Products",module,Magento_Catalog
-"%1 - Special Products","%1 - Special Products",module,Magento_Catalog
-"Click for price","Click for price",module,Magento_Catalog
-"Special Expires On: %1","Special Expires On: %1",module,Magento_Catalog
-"Price: %1","Price: %1",module,Magento_Catalog
-"Special Price: %1","Special Price: %1",module,Magento_Catalog
-"Special Products","Special Products",module,Magento_Catalog
-"Manage Catalog Categories","Manage Catalog Categories",module,Magento_Catalog
-"Manage Categories","Manage Categories",module,Magento_Catalog
-"You deleted the category.","You deleted the category.",module,Magento_Catalog
-"Something went wrong while trying to delete the category.","Something went wrong while trying to delete the category.",module,Magento_Catalog
-Categories,Categories,module,Magento_Catalog
-"Category is not available for requested store.","Category is not available for requested store.",module,Magento_Catalog
-"There was a category move error. %1","There was a category move error. %1",module,Magento_Catalog
-"There was a category move error.","There was a category move error.",module,Magento_Catalog
-"You moved the category","You moved the category",module,Magento_Catalog
-"Attribute ""%1"" is required.","Attribute ""%1"" is required.",module,Magento_Catalog
-"You saved the category.","You saved the category.",module,Magento_Catalog
-"Something went wrong while saving the category.","Something went wrong while saving the category.",module,Magento_Catalog
-"Please select products for attributes update.","Please select products for attributes update.",module,Magento_Catalog
-"Please make sure to define SKU values for all processed products.","Please make sure to define SKU values for all processed products.",module,Magento_Catalog
-"A total of %1 record(s) were updated.","A total of %1 record(s) were updated.",module,Magento_Catalog
-"Something went wrong while updating the product(s) attributes.","Something went wrong while updating the product(s) attributes.",module,Magento_Catalog
-"Unable to add attribute","Unable to add attribute",module,Magento_Catalog
-"Please, specify attributes","Please, specify attributes",module,Magento_Catalog
-Catalog,Catalog,module,Magento_Catalog
-"Manage Product Attributes","Manage Product Attributes",module,Magento_Catalog
-"We can't delete the attribute.","We can't delete the attribute.",module,Magento_Catalog
-"You deleted the product attribute.","You deleted the product attribute.",module,Magento_Catalog
-"We can't find an attribute to delete.","We can't find an attribute to delete.",module,Magento_Catalog
-"This attribute no longer exists.","This attribute no longer exists.",module,Magento_Catalog
-"This attribute cannot be edited.","This attribute cannot be edited.",module,Magento_Catalog
-"Edit Product Attribute","Edit Product Attribute",module,Magento_Catalog
-"An attribute set named '%1' already exists.","An attribute set named '%1' already exists.",module,Magento_Catalog
-"Something went wrong while saving the attribute.","Something went wrong while saving the attribute.",module,Magento_Catalog
+"-- Please Select --","-- برجاء التحديد --",module,Magento_Catalog
+None,لا شىء,module,Magento_Catalog
+"New Products from %1","منتجات جديدة من %1",module,Magento_Catalog
+"New Products","منتجات جديدة",module,Magento_Catalog
+"%1 - Special Products","%1 - منتجات خاصة",module,Magento_Catalog
+"Click for price","اضغط للسعر",module,Magento_Catalog
+"Special Expires On: %1","انتهاء مدة الصلاحية الخاصة في: %1",module,Magento_Catalog
+"Price: %1","سعر: %1",module,Magento_Catalog
+"Special Price: %1","سعر خاص: %1",module,Magento_Catalog
+"Special Products","منتجات خاصة",module,Magento_Catalog
+"Manage Catalog Categories","إدارة كتالوج الفئات",module,Magento_Catalog
+"Manage Categories","إدارةالفئات",module,Magento_Catalog
+"You deleted the category.","لقد مسحت الفئة",module,Magento_Catalog
+"Something went wrong while trying to delete the category.","حدث خطأ ما أثناء محاولة حذف هذه الفئة.",module,Magento_Catalog
+Categories,فئات,module,Magento_Catalog
+"Category is not available for requested store.","فئة غير متاحة للمخزن المطلوب.",module,Magento_Catalog
+"There was a category move error. %1","هناك خطأ %1 في نقل الفئة",module,Magento_Catalog
+"There was a category move error.","هناك خطأ في نقل الفئة.",module,Magento_Catalog
+"You moved the category","لقد نقلت الفئة",module,Magento_Catalog
+"Attribute ""%1"" is required.","السمة ""%1"" مطلوبة.",module,Magento_Catalog
+"You saved the category.","لقد حفظت الفئة.",module,Magento_Catalog
+"Something went wrong while saving the category.","حدث خطأ ما أثناء حفظ الفئة.",module,Magento_Catalog
+"Please select products for attributes update.","برجاء تحديد منتجات لتحديث السمات.",module,Magento_Catalog
+"Please make sure to define SKU values for all processed products.","برجاء التأكد من تحديد قيمة SKU لجميع المنتجات المتعالجة",module,Magento_Catalog
+"A total of %1 record(s) were updated.","مجموع %1 من المحفوظات حدثت ",module,Magento_Catalog
+"Something went wrong while updating the product(s) attributes.","حدث خطأ ما اثناء تحديث سمات المنتجات.",module,Magento_Catalog
+"Unable to add attribute","غير قادر على إضافة سمة",module,Magento_Catalog
+"Please, specify attributes","يرجى تحديد سمات",module,Magento_Catalog
+Catalog,كاتالوج,module,Magento_Catalog
+"Manage Product Attributes","إدارة سمات المنتج",module,Magento_Catalog
+"We can't delete the attribute.",لم نتمكن من حذف السمة",module,Magento_Catalog
+"You deleted the product attribute.","لقد حذفت سمة المنتج.",module,Magento_Catalog
+"We can't find an attribute to delete.","لم نتمكن من إيجاد السمة لمسحها",module,Magento_Catalog
+"This attribute no longer exists.","هذه السمة لم تعد موجودة بعد.",module,Magento_Catalog
+"This attribute cannot be edited.","هذه السمة لا يمكن تعديلها.",module,Magento_Catalog
+"Edit Product Attribute","تعديل سمة المنتج",module,Magento_Catalog
+"An attribute set named '%1' already exists.","مجموعة السمات باسم '%1' موجودة بالفعل.",module,Magento_Catalog
+"Something went wrong while saving the attribute.","حدث خطأ ما اثناء حفظ السمة..",module,Magento_Catalog
 "Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.","Attribute code ""%1"" is invalid. Please use only letters (a-z), numbers (0-9) or underscore(_) in this field, first character should be a letter.",module,Magento_Catalog
-"We can't update the attribute.","We can't update the attribute.",module,Magento_Catalog
-"You saved the product attribute.","You saved the product attribute.",module,Magento_Catalog
-"An attribute with this code already exists.","An attribute with this code already exists.",module,Magento_Catalog
-"An attribute with the same code (%1) already exists.","An attribute with the same code (%1) already exists.",module,Magento_Catalog
-"You duplicated the product.","You duplicated the product.",module,Magento_Catalog
-"This product doesn't exist.","This product doesn't exist.",module,Magento_Catalog
+"We can't update the attribute.","لم نتمكن من تحديث السمة.",module,Magento_Catalog
+"You saved the product attribute.","لقد حفظت سمة المنتج.",module,Magento_Catalog
+"An attribute with this code already exists.","السمة بهذا الكود موجودة بالفعل.",module,Magento_Catalog
+"An attribute with the same code (%1) already exists.","سمة بنفس الكود (%1) موجودة بالفعل.",module,Magento_Catalog
+"You duplicated the product.","لقد كررت المنتج.",module,Magento_Catalog
+"This product doesn't exist.","هذا المنتج غير موجود.",module,Magento_Catalog
 "Invalid product id. Should be numeric value greater than 0","Invalid product id. Should be numeric value greater than 0",module,Magento_Catalog
-Products,Products,module,Magento_Catalog
-"A group with the same name already exists.","A group with the same name already exists.",module,Magento_Catalog
-"Something went wrong while saving this group.","Something went wrong while saving this group.",module,Magento_Catalog
+Products,منتجات,module,Magento_Catalog
+"A group with the same name already exists.","مجموعة بنفس الاسم موجودة بالفعل",module,Magento_Catalog
+"Something went wrong while saving this group.","حدث خطأ ما اثناء حفظ المجموعة.",module,Magento_Catalog
 "A total of %1 record(s) have been deleted.","A total of %1 record(s) have been deleted.",module,Magento_Catalog
 "A total of %1 record(s) have been updated.","A total of %1 record(s) have been updated.",module,Magento_Catalog
 "Something went wrong while updating the product(s) status.","Something went wrong while updating the product(s) status.",module,Magento_Catalog
