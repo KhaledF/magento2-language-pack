@@ -1172,7 +1172,7 @@ All,الكل,module,Magento_Catalog
 "Bad controller interface for showing product","واجهة تحكم سيئة لعرض المنتج",module,Magento_Catalog
 "Product is not loaded","لم يتم تحميل المنتج",module,Magento_Catalog
 "Make sure the To Date is later than or the same as the From Date.","تأكد من أن (إلى تاريخ) أحدث من أو نفس (من تاريخ).",module,Magento_Catalog
-"Sorry, but we can't find the new parent category you selected.","عذرا، لكننا لا يمكن العثور على الفئة الأم الجديدة التي حددتها.",module,Magento_Catalog
+"Sorry, but we can't find the new parent category you selected.","عذرا، لكننا لا يمكن العثور على الفئة الأصل الجديدة التي حددتها.",module,Magento_Catalog
 "Sorry, but we can't find the new category you selected.","عذرا، لكننا لا يمكن العثور على فئة جديدة قمت بتحديدها.",module,Magento_Catalog
 "We can't move the category because the parent category name matches the child category name.","لا نستطيع أن نحرك الفئة لأن اسم الفئة الأم يطابق اسم الفئة الفرعية.",module,Magento_Catalog
 "Something went wrong while getting the image url.","حدث خطأ ما أثناء الحصول على رابط الصورة.",module,Magento_Catalog
@@ -1203,20 +1203,20 @@ Manual,Manual,module,Magento_Catalog
 Fixed,ثابت,module,Magento_Catalog
 Percent,نسبه مئويه,module,Magento_Catalog
 "-- Please select --","-- برجاء التحديد --",module,Magento_Catalog
-"Product Thumbnail Itself","Product Thumbnail Itself",module,Magento_Catalog
-"Parent Product Thumbnail","Parent Product Thumbnail",module,Magento_Catalog
+"Product Thumbnail Itself","صورة مصغرة للمنتج نفسه",module,Magento_Catalog
+"Parent Product Thumbnail","صورة مصغرة من المنتج الأم",module,Magento_Catalog
 "12h AM/PM","12h AM/PM",module,Magento_Catalog
 24h,24h,module,Magento_Catalog
-Stretch,Stretch,module,Magento_Catalog
-Tile,Tile,module,Magento_Catalog
-Top/Left,Top/Left,module,Magento_Catalog
-Top/Right,Top/Right,module,Magento_Catalog
-Bottom/Left,Bottom/Left,module,Magento_Catalog
-Bottom/Right,Bottom/Right,module,Magento_Catalog
-Center,Center,module,Magento_Catalog
+Stretch,امتداد,module,Magento_Catalog
+Tile,عنوان,module,Magento_Catalog
+Top/Left,أعلى/يسار,module,Magento_Catalog
+Top/Right,أعلى/يمين,module,Magento_Catalog
+Bottom/Left,أسفل/يسار,module,Magento_Catalog
+Bottom/Right,أسفل/يمين,module,Magento_Catalog
+Center,مركز,module,Magento_Catalog
 "%1 doesn't extends \Magento\Framework\Model\AbstractModel","%1 doesn't extends \Magento\Framework\Model\AbstractModel",module,Magento_Catalog
-"Something went wrong while saving the file(s).","Something went wrong while saving the file(s).",module,Magento_Catalog
-"File can not be saved to the destination folder.","File can not be saved to the destination folder.",module,Magento_Catalog
+"Something went wrong while saving the file(s).","حدث خطأ ما أثناء حفظ الملفات",module,Magento_Catalog
+"File can not be saved to the destination folder.","لا يمكن أن يتم حفظ الملف  إلى المجلد المقصود.",module,Magento_Catalog
 "Unknown EAV indexer type ""%1"".","Unknown EAV indexer type ""%1"".",module,Magento_Catalog
 "We can't rebuild the index for an undefined product.","We can't rebuild the index for an undefined product.",module,Magento_Catalog
 "Bad value was supplied.","Bad value was supplied.",module,Magento_Catalog
